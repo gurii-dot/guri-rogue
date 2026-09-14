@@ -1,0 +1,29 @@
+{
+  "stench": {
+    "name": "Koku"
+  },
+  "drizzle": {
+    "name": "Çiselemek"
+  },
+  "speedBoost": {
+    "name": "Hız Takviyesi"
+  },
+  "sturdy": {
+    "name": "Sağlam"
+  },
+  "damp": {
+    "name": "Nemli"
+  },
+  "static": {
+    "name": "Statik"
+  },
+  "insomnia": {
+    "name": "Uykusuz"
+  },
+  "colorChange": {
+    "name": "Renk Deişmek"
+  },
+  "hugePower": {
+    "name": "Büyük Güç"
+  }
+}

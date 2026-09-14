@@ -1,0 +1,3207 @@
+{
+  "pound": {
+    "name": "Smocka",
+    "effect": "Motståndaren smockas med en lång svans, ett framben eller liknande."
+  },
+  "karateChop": {
+    "name": "Karatehugg",
+    "effect": "Motståndaren anfalls med ett handshugg. Chansen för kritisk träff är +1."
+  },
+  "doubleSlap": {
+    "name": "Örfilar",
+    "effect": "Motståndaren örfilas 2-5 gånger i rad."
+  },
+  "cometPunch": {
+    "name": "Nävrusch",
+    "effect": "Motståndaren slås snabbt med 2-5 nävslag i rad."
+  },
+  "megaPunch": {
+    "name": "Meganäve",
+    "effect": "Motståndaren får sig en kraftig råsop."
+  },
+  "payDay": {
+    "name": "Lönedags",
+    "effect": "Mynt slungas mot motståndaren så den tar skada. Om tekniken träffas tjänas pengar in efter striden."
+  },
+  "firePunch": {
+    "name": "Eldnäve",
+    "effect": "Motståndaren slås med en brinnande knytnäve, med 10 % chans för brännskada."
+  },
+  "icePunch": {
+    "name": "Isnäve",
+    "effect": "Motståndaren slås med en frusen knytnäve, med 10 % chans för nedfrysning."
+  },
+  "thunderPunch": {
+    "name": "Blixtnäve",
+    "effect": "Motståndaren slås med en elladdad knytnäve. Detta har 10 % chans att förlama motståndaren."
+  },
+  "scratch": {
+    "name": "Rispa",
+    "effect": "Hårda, spetsiga, vassa klor rispar motståndaren för att orsaka skada."
+  },
+  "viseGrip": {
+    "name": "Nypgrepp",
+    "effect": "Motståndaren nyps och kläms på båda sidor."
+  },
+  "guillotine": {
+    "name": "Giljotin"
+  },
+  "razorWind": {
+    "name": "Sickelvind",
+    "effect": "Utföraren laddar först upp och anfaller sedan med vindsicklor omgången efter. Chansen för kritisk träff är +1."
+  },
+  "swordsDance": {
+    "name": "Svärdsdans",
+    "effect": "En frenetisk dans uppviglar kämparanda. Utförarens attackförmåga ökas skarpt."
+  },
+  "cut": {
+    "name": "Beskärning",
+    "effect": "Motståndaren beskärs likt ett litet träd med en klinga eller klo."
+  },
+  "gust": {
+    "name": "Vindpust",
+    "effect": "En vindpust piskas upp och skadar motståndaren. Den träffar, med dubbel kraft, en motståndare som är i luften genom Flyg, Studs eller Fritt fall."
+  },
+  "wingAttack": {
+    "name": "Vingsving",
+    "effect": "Stora, praktfulla vingar svingas mot motståndaren för att skada den."
+  },
+  "whirlwind": {
+    "name": "Bortblåst"
+  },
+  "fly": {
+    "name": "Flyg"
+  },
+  "bind": {
+    "name": "Hårdbinding"
+  },
+  "slam": {
+    "name": "Storsmäll",
+    "effect": "Motståndaren får en rejäl smäll av en lång svans, långa rankor eller liknande och tar skada."
+  },
+  "vineWhip": {
+    "name": "Lianpiska",
+    "effect": "Motståndaren skadas med smala piskliknande lianer."
+  },
+  "stomp": {
+    "name": "Stampning"
+  },
+  "doubleKick": {
+    "name": "Dubbelspark"
+  },
+  "megaKick": {
+    "name": "Megaspark",
+    "effect": "Motståndaren får sig en redig rakspark."
+  },
+  "jumpKick": {
+    "name": "Hoppspark"
+  },
+  "rollingKick": {
+    "name": "Rundspark"
+  },
+  "sandAttack": {
+    "name": "Slängsand"
+  },
+  "headbutt": {
+    "name": "Skallning"
+  },
+  "hornAttack": {
+    "name": "Hornattack",
+    "effect": "Motståndaren sticks med ett vasst horn för att orsaka skada."
+  },
+  "furyAttack": {
+    "name": "Hackattack"
+  },
+  "hornDrill": {
+    "name": "Hornborr"
+  },
+  "tackle": {
+    "name": "Tackling",
+    "effect": "Utföraren rusar mot motståndaren och krockar in i den med hela kroppen."
+  },
+  "bodySlam": {
+    "name": "Storsmäll"
+  },
+  "wrap": {
+    "name": "Invirande"
+  },
+  "takeDown": {
+    "name": "Helkroppstackling"
+  },
+  "thrash": {
+    "name": "Bärsärkargång"
+  },
+  "doubleEdge": {
+    "name": "Tveeggad tackling"
+  },
+  "tailWhip": {
+    "name": "Svansvift"
+  },
+  "poisonSting": {
+    "name": "Giftstick",
+    "effect": "Utföraren sticker motståndaren med en gifttagg. Detta har 30 % chans att förgifta motståndaren."
+  },
+  "twineedle": {
+    "name": "Dubbelnål",
+    "effect": "Utföraren sticker motståndaren 2 gånger i rad med två vassa nålar. Detta har 20 % chans att förgifta motståndaren."
+  },
+  "pinMissile": {
+    "name": "Missilnålar"
+  },
+  "leer": {
+    "name": "Bläng"
+  },
+  "bite": {
+    "name": "Bett"
+  },
+  "growl": {
+    "name": "Morr",
+    "effect": "Utföraren morrar på ett älskvärt sätt, vilket gör motståndarna mindre försiktiga. Detta sänker deras attackförmåga."
+  },
+  "roar": {
+    "name": "Ryt"
+  },
+  "sing": {
+    "name": "Vaggvisa"
+  },
+  "supersonic": {
+    "name": "Ultraljud",
+    "effect": "Utföraren genererar konstiga ljudvågor som förvirrar motståndaren."
+  },
+  "sonicBoom": {
+    "name": "Stötvåg",
+    "effect": "Motståndaren träffas av en destruktiv chockvåg som alltid orsakar 20 HP i skada."
+  },
+  "disable": {
+    "name": "Spärr"
+  },
+  "acid": {
+    "name": "Syra"
+  },
+  "ember": {
+    "name": "Glöd"
+  },
+  "flamethrower": {
+    "name": "Eldkastare"
+  },
+  "mist": {
+    "name": "Vitt dis"
+  },
+  "waterGun": {
+    "name": "Vattenpistol",
+    "effect": "Motståndaren skjuts med ett ganska kraftfullt vattenskott."
+  },
+  "hydroPump": {
+    "name": "Hydropump",
+    "effect": "Motståndaren träffas av en enorm mängd vatten som skjuts ut under stort tryck."
+  },
+  "surf": {
+    "name": "Surfning"
+  },
+  "iceBeam": {
+    "name": "Isstråle"
+  },
+  "blizzard": {
+    "name": "Snöstorm"
+  },
+  "psybeam": {
+    "name": "Psykostråle"
+  },
+  "bubbleBeam": {
+    "name": "Bubbelstråle"
+  },
+  "auroraBeam": {
+    "name": "Polarskensstråle"
+  },
+  "hyperBeam": {
+    "name": "Hyperstråle",
+    "effect": "Utföraren skjuter motståndaren med en extremt kraftig stråle. Utföraren kan sedan inte röra sig i följande omgång."
+  },
+  "peck": {
+    "name": "Hacka"
+  },
+  "drillPeck": {
+    "name": "Hackborr",
+    "effect": "En korkskruvande attack som träffar motståndaren med en vass näbb som agerar som en borr."
+  },
+  "submission": {
+    "name": "Helvetesgrepp"
+  },
+  "lowKick": {
+    "name": "Fällande lågspark"
+  },
+  "counter": {
+    "name": "Motanfall"
+  },
+  "seismicToss": {
+    "name": "Gravitationskast",
+    "effect": "Motståndaren kastas med hjälp av tyngkraft. Skadan som orsakas motsvarar utförarens nivå."
+  },
+  "strength": {
+    "name": "Superstyrka",
+    "effect": "Motståndaren träffas av ett rundslag med maximal kraft."
+  },
+  "absorb": {
+    "name": "Absorbera"
+  },
+  "megaDrain": {
+    "name": "Mega-absorption"
+  },
+  "leechSeed": {
+    "name": "Parasitfrö"
+  },
+  "growth": {
+    "name": "Snabbväxt"
+  },
+  "razorLeaf": {
+    "name": "Vassa blad",
+    "effect": "Vasseggade löv avfyras mot motståndarna för att skära dem. Chansen för kritisk träff är +1."
+  },
+  "solarBeam": {
+    "name": "Solstråle"
+  },
+  "poisonPowder": {
+    "name": "Giftpulver",
+    "effect": "Ett moln av giftiga partiklar som förgiftar motståndaren."
+  },
+  "stunSpore": {
+    "name": "Paralyspulver",
+    "effect": "Utföraren sprider ett moln av paralyserande pulver som förlamar motståndaren."
+  },
+  "sleepPowder": {
+    "name": "Sömnpulver"
+  },
+  "petalDance": {
+    "name": "Blombladsbalett"
+  },
+  "stringShot": {
+    "name": "Silkesspott"
+  },
+  "dragonRage": {
+    "name": "Drakens ilska",
+    "effect": "Denna attack träffar motståndaren med en chockvåg av ren ilska. Denna attack orsakar alltid 40 HP i skada."
+  },
+  "fireSpin": {
+    "name": "Eldvirvel"
+  },
+  "thunderShock": {
+    "name": "Åskstöt",
+    "effect": "En elektrisk stöt slår ner på motståndaren och skadar den. Detta har 10 % chans att förlama motståndaren."
+  },
+  "thunderbolt": {
+    "name": "Åskboll",
+    "effect": "En stark elektrisk stöt slår ner på motståndaren och skadar den. Detta har 10 % chans att förlama motståndaren."
+  },
+  "thunderWave": {
+    "name": "Åskvåg",
+    "effect": "En lätt våg av el förlamar motståndaren."
+  },
+  "thunder": {
+    "name": "Blixt",
+    "effect": "En kraftig blixt skadar motståndaren, med 30 % chans för förlamning. Den träffar alltid i regn. Den kan dessutom träffa en motståndare som är i luften genom Flyg, Studs eller Fritt fall."
+  },
+  "rockThrow": {
+    "name": "Stenkast"
+  },
+  "earthquake": {
+    "name": "Jordbävning"
+  },
+  "fissure": {
+    "name": "Jordklyvare"
+  },
+  "dig": {
+    "name": "Grävning"
+  },
+  "toxic": {
+    "name": "Toxin"
+  },
+  "confusion": {
+    "name": "Tankeförvillning"
+  },
+  "psychic": {
+    "name": "Psykokinesi"
+  },
+  "hypnosis": {
+    "name": "Hypnos"
+  },
+  "meditate": {
+    "name": "Meditation"
+  },
+  "agility": {
+    "name": "Spänstighet"
+  },
+  "quickAttack": {
+    "name": "Snabbslag"
+  },
+  "rage": {
+    "name": "Raserianfall",
+    "effect": "Så länge denna teknik är i användning ökar raseriets kraft utförarens attackförmåga varje gång utföraren träffas av en attack i strid."
+  },
+  "teleport": {
+    "name": "Teleportering"
+  },
+  "nightShade": {
+    "name": "Nattvålnad",
+    "effect": "Utföraren får motståndaren att se en skrämmande hägring. Den orsakar skada som motsvarar utförarens nivå."
+  },
+  "mimic": {
+    "name": "Härmning"
+  },
+  "screech": {
+    "name": "Skri",
+    "effect": "Ett öronbedövande skri sänker skarpt motståndarens försvarsförmåga."
+  },
+  "doubleTeam": {
+    "name": "Skenbilder"
+  },
+  "recover": {
+    "name": "Regeneration"
+  },
+  "harden": {
+    "name": "Hårdnad"
+  },
+  "minimize": {
+    "name": "Krympning",
+    "effect": "Utföraren krymper sin kropp för att se mindre ut, vilket skarpt ökar dess undvikandeförmåga. Detta gör dock utföraren mer sårbar för tekniker som smäller eller krossar."
+  },
+  "smokescreen": {
+    "name": "Rökridå",
+    "effect": "Utföraren släpper ut ett förmörkande moln av rök eller bläck. Detta sänker motståndarens träffsäkerhet."
+  },
+  "confuseRay": {
+    "name": "Bisarrt ljus"
+  },
+  "withdraw": {
+    "name": "Skalgömme"
+  },
+  "defenseCurl": {
+    "name": "Ihoprullning"
+  },
+  "barrier": {
+    "name": "Barriär",
+    "effect": "Utföraren skapar en tålig barriär som skarpt ökar försvarsförmågan hos utföraren."
+  },
+  "lightScreen": {
+    "name": "Specialskärm"
+  },
+  "haze": {
+    "name": "Töcken",
+    "effect": "Utföraren skapar ett tjock dimtäcke som eliminerar alla förmågeändringar hos alla pokémon i strid."
+  },
+  "reflect": {
+    "name": "Fysioskydd"
+  },
+  "focusEnergy": {
+    "name": "Energifokus",
+    "effect": "Utföraren tar ett djupt andetag och fokuserar så att dess chans för kritisk träff blir +2."
+  },
+  "bide": {
+    "name": "Uthärdande"
+  },
+  "metronome": {
+    "name": "Fingervift",
+    "effect": "Utföraren viftar på fingret, vilket stimulerar dess hjärna och låter den slumpmässigt utföra nästan vilken teknik som helst."
+  },
+  "mirrorMove": {
+    "name": "Tillbakakaka"
+  },
+  "selfDestruct": {
+    "name": "Självsprängning",
+    "effect": "Utföraren sprängs och skadar alla andra på fältet. Utföraren svimmar när den använder tekniken."
+  },
+  "eggBomb": {
+    "name": "Äggsplosion",
+    "effect": "Ett stort ägg kastas på motståndaren med maximal styrka."
+  },
+  "lick": {
+    "name": "Slick",
+    "effect": "Motståndaren slickas med en lång tunga och tar skada. Detta har 30 % chans att förlama motståndaren."
+  },
+  "smog": {
+    "name": "Smog",
+    "effect": "Avfallsgaser avfyrar mot motståndaren för att skada den. Detta har 30 % chans att förgifta motståndaren."
+  },
+  "sludge": {
+    "name": "Slamskott",
+    "effect": "Osanitärt slam slungas på motståndaren. Detta har 30 % chans att förgifta motståndaren."
+  },
+  "boneClub": {
+    "name": "Knotklubba"
+  },
+  "fireBlast": {
+    "name": "Eldsvåda"
+  },
+  "waterfall": {
+    "name": "Vattenfallsrusch"
+  },
+  "clamp": {
+    "name": "Skalkläm"
+  },
+  "swift": {
+    "name": "Stjärnskott",
+    "effect": "Stjärnformade strålar skjuts på båda motståndarna. Attacken missar aldrig."
+  },
+  "skullBash": {
+    "name": "Raketskalle",
+    "effect": "Utföraren drar först in sitt huvud för att öka sin försvarsförmåga för att sedan snabbt skalla motståndare följande omgång."
+  },
+  "spikeCannon": {
+    "name": "Spikkanon"
+  },
+  "constrict": {
+    "name": "Insnörande"
+  },
+  "amnesia": {
+    "name": "Amnesi"
+  },
+  "kinesis": {
+    "name": "Skedböjning",
+    "effect": "Utföraren böjer en sked med sin hjärnkraft för att distrahera en motståndare. Detta sänker motståndarens träffsäkerhet."
+  },
+  "softBoiled": {
+    "name": "Ägglägg"
+  },
+  "highJumpKick": {
+    "name": "Flygande knäspark"
+  },
+  "glare": {
+    "name": "Medusablick"
+  },
+  "dreamEater": {
+    "name": "Drömslukare"
+  },
+  "poisonGas": {
+    "name": "Giftgas"
+  },
+  "barrage": {
+    "name": "Kanonad"
+  },
+  "leechLife": {
+    "name": "Blodsugare"
+  },
+  "lovelyKiss": {
+    "name": "Demonkyss"
+  },
+  "skyAttack": {
+    "name": "Gudafågel",
+    "effect": "Utföraren laddar upp första omgången för dyka på motståndaren följade omgång. Detta har 30 % chans att få motståndaren att rygga tillbaka. Chansen för kritisk träff är +1."
+  },
+  "transform": {
+    "name": "Transformation"
+  },
+  "bubble": {
+    "name": "Bubblor"
+  },
+  "dizzyPunch": {
+    "name": "Virrnäve"
+  },
+  "spore": {
+    "name": "Sömnsporer",
+    "effect": "Utföraren sprider sporer som framkallar sömn."
+  },
+  "flash": {
+    "name": "Bländande ljus",
+    "effect": "Utföraren bländar med ett starkt ljus som sänker motståndarens träffsäkerhet."
+  },
+  "psywave": {
+    "name": "Psykovåg"
+  },
+  "splash": {
+    "name": "Sprattel",
+    "effect": "Utföraren sprattlar och småhoppar runt utan någon som helst effekt."
+  },
+  "acidArmor": {
+    "name": "Förvätskning"
+  },
+  "crabhammer": {
+    "name": "Krabbhammare",
+    "effect": "Motståndaren hamras med en massiv klo. Chansen för kritisk träff är +1."
+  },
+  "explosion": {
+    "name": "Autoexplosion",
+    "effect": "Utföraren skadar alla runt omkring sig genom att orsaka en våldsam explosion. Utföraren svimmar när den använder denna teknik."
+  },
+  "furySwipes": {
+    "name": "Vilda svep"
+  },
+  "bonemerang": {
+    "name": "Benerang"
+  },
+  "rest": {
+    "name": "Tupplur"
+  },
+  "rockSlide": {
+    "name": "Stenras"
+  },
+  "hyperFang": {
+    "name": "Dödligt bett"
+  },
+  "sharpen": {
+    "name": "Vässning",
+    "effect": "Utföraren gör dess kanter vassare, vilket ökar dess attackförmåga."
+  },
+  "conversion": {
+    "name": "Konvertering",
+    "effect": "Utföraren ändrar sin typ så att den blir samma typ som den första tekniken på sin tekniklista."
+  },
+  "triAttack": {
+    "name": "Triad"
+  },
+  "superFang": {
+    "name": "Halvdödligt bett"
+  },
+  "slash": {
+    "name": "Skärande svep",
+    "effect": "Motståndaren skärs av svepande klor eller blad. Chansen för kritisk träff är +1."
+  },
+  "substitute": {
+    "name": "Bulvan"
+  },
+  "struggle": {
+    "name": "Desperation"
+  },
+  "sketch": {
+    "name": "Skiss"
+  },
+  "tripleKick": {
+    "name": "Trippelspark"
+  },
+  "thief": {
+    "name": "Rån",
+    "effect": "Utföraren attackerar och försöker råna motståndaren med 30 % chans att stjäla ett av motståndarens burna föremål."
+  },
+  "spiderWeb": {
+    "name": "Spindelväv"
+  },
+  "mindReader": {
+    "name": "Tankeläsning",
+    "effect": "Utföraren läser av en motståndares rörelser med sitt sinne för att säkerställa att nästa attack inte missar motståndaren."
+  },
+  "nightmare": {
+    "name": "Mardrömmar"
+  },
+  "flameWheel": {
+    "name": "Eldhjul"
+  },
+  "snore": {
+    "name": "Snark"
+  },
+  "curse": {
+    "name": "Demonisk makt"
+  },
+  "flail": {
+    "name": "Flaxande"
+  },
+  "conversion2": {
+    "name": "Konvertering 2.0"
+  },
+  "aeroblast": {
+    "name": "Trombstöt",
+    "effect": "En stor tromb skjuts mot motståndaren och skadar den. Chansen för kritisk träff är +1."
+  },
+  "cottonSpore": {
+    "name": "Bomullssporer"
+  },
+  "reversal": {
+    "name": "Revanschstöt"
+  },
+  "spite": {
+    "name": "Illvilja",
+    "effect": "Utföraren riktar sin illvilja mot den teknik som senast använts av motståndaren, vilket tar bort 4 KP från den."
+  },
+  "powderSnow": {
+    "name": "Pudersnö"
+  },
+  "protect": {
+    "name": "Skyddsköld"
+  },
+  "machPunch": {
+    "name": "Machnäve",
+    "effect": "Utföraren slår ett knytnävsslag med bländande hastighet. Denna teknik går alltid först."
+  },
+  "scaryFace": {
+    "name": "Läskigt ansikte",
+    "effect": "Utföraren skrämmer motståndaren med ett läskigt ansikte för att skarpt sänka dess snabbhet."
+  },
+  "feintAttack": {
+    "name": "Smygattack",
+    "effect": "Utföraren närmar sig motståndaren oskyldigt och slår sedan den med ett oväntat slag. Denna attack missar aldrig."
+  },
+  "sweetKiss": {
+    "name": "Änglapuss",
+    "effect": "Utföraren kysser motståndaren med en söt, änglalik gullighet som orsakar förvirring."
+  },
+  "bellyDrum": {
+    "name": "Magtrumma"
+  },
+  "sludgeBomb": {
+    "name": "Kläggbomb",
+    "effect": "En stor massa av slam och klägg slungas på motståndaren. Detta har 30 % chans att förgifta motståndaren."
+  },
+  "mudSlap": {
+    "name": "Gyttjeskast",
+    "effect": "Utföraren kastar lera i motståndarens ansikte för att orsaka skada och sänka dess träffsäkerhet."
+  },
+  "octazooka": {
+    "name": "Bläckazooka"
+  },
+  "spikes": {
+    "name": "Fotanglar"
+  },
+  "zapCannon": {
+    "name": "Magnetkanon"
+  },
+  "foresight": {
+    "name": "Genomskådning",
+    "effect": "Gör så att spöktyppokémon kan träffas av normal- och slagsmålstypattacker. Mycket undvikande motståndare kan även träffas utan risk för miss."
+  },
+  "destinyBond": {
+    "name": "Ödesband"
+  },
+  "perishSong": {
+    "name": "Undergångssång"
+  },
+  "icyWind": {
+    "name": "Isande vind",
+    "effect": "Utföraren attackerar båda motståndarna med en kylig vindpust. Detta sänker också motståndarnas snabbhet."
+  },
+  "detect": {
+    "name": "Parering"
+  },
+  "boneRush": {
+    "name": "Benknotrusch"
+  },
+  "lockOn": {
+    "name": "Radarlåsning"
+  },
+  "outrage": {
+    "name": "Vredesutbrott"
+  },
+  "sandstorm": {
+    "name": "Sandstorm"
+  },
+  "gigaDrain": {
+    "name": "Giga-absorption"
+  },
+  "endure": {
+    "name": "Ihärdighet"
+  },
+  "charm": {
+    "name": "Charm",
+    "effect": "Utföraren tittar på motståndaren på ett charmigt sätt, vilket gör den mindre vaksam. Detta sänker motståndarens attackstatistik skarpt.\""
+  },
+  "rollout": {
+    "name": "Bumlingsrull"
+  },
+  "falseSwipe": {
+    "name": "Beräknat svep",
+    "effect": "En återhållsam attack som förhindrar att motståndaren svimmar. Motståndaren har alltid kvar minst 1 HP efteråt."
+  },
+  "swagger": {
+    "name": "Muckat gräl"
+  },
+  "milkDrink": {
+    "name": "Mellanmjölk"
+  },
+  "spark": {
+    "name": "Gnista",
+    "effect": "Utföraren laddar upp med el och tacklar motståndaren. Detta har 30 % chans att förlama motståndaren."
+  },
+  "furyCutter": {
+    "name": "Insekvensskärare"
+  },
+  "steelWing": {
+    "name": "Stålvingar"
+  },
+  "meanLook": {
+    "name": "Ond blick"
+  },
+  "attract": {
+    "name": "Tjusning"
+  },
+  "sleepTalk": {
+    "name": "Sömnprat"
+  },
+  "healBell": {
+    "name": "Helande bjällra"
+  },
+  "return": {
+    "name": "Gengäldning"
+  },
+  "present": {
+    "name": "Present"
+  },
+  "frustration": {
+    "name": "Förskjuten ilska"
+  },
+  "safeguard": {
+    "name": "Mystisk sköld"
+  },
+  "painSplit": {
+    "name": "Delad sorg"
+  },
+  "sacredFire": {
+    "name": "Helgad eld"
+  },
+  "magnitude": {
+    "name": "Magnitud"
+  },
+  "dynamicPunch": {
+    "name": "Dynamisk näve"
+  },
+  "megahorn": {
+    "name": "Megahorn",
+    "effect": "Med sitt tuffa och imponerande horn rammar utföraren in i motståndaren utan uppehåll."
+  },
+  "dragonBreath": {
+    "name": "Drakens anda",
+    "effect": "Utföraren andas in mäktig vindil som skadar motståndaren. Detta har 30 % chans att förlama motståndaren."
+  },
+  "batonPass": {
+    "name": "Stafettpinne"
+  },
+  "encore": {
+    "name": "Dacapo"
+  },
+  "pursuit": {
+    "name": "Hack i häl",
+    "effect": "Kraften av denna attack fördubblas om den utförs på en motståndare som byts av."
+  },
+  "rapidSpin": {
+    "name": "Spurtskruvare"
+  },
+  "sweetScent": {
+    "name": "Söt doft"
+  },
+  "ironTail": {
+    "name": "Järnsvans"
+  },
+  "metalClaw": {
+    "name": "Metallklo"
+  },
+  "vitalThrow": {
+    "name": "Kontrakast",
+    "effect": "Utföraren attackerar alltid sist. I gengäld missar aldrig denna teknik."
+  },
+  "morningSun": {
+    "name": "Morgonsol"
+  },
+  "synthesis": {
+    "name": "Fotosyntes"
+  },
+  "moonlight": {
+    "name": "Månsken"
+  },
+  "hiddenPower": {
+    "name": "Dold kraft",
+    "effect": "En unik attack som varierar i typ beroende på vilken pokémon som utför den."
+  },
+  "crossChop": {
+    "name": "Korshugg",
+    "effect": "Utföraren anfaller med dubbla hugg med korsade armar. Chansen för kritisk träff är +1."
+  },
+  "twister": {
+    "name": "Drakvind"
+  },
+  "rainDance": {
+    "name": "Regnritual"
+  },
+  "sunnyDay": {
+    "name": "Solskensdag"
+  },
+  "crunch": {
+    "name": "Knaprande"
+  },
+  "mirrorCoat": {
+    "name": "Spegelstraff"
+  },
+  "psychUp": {
+    "name": "Somatisk empati",
+    "effect": "Utföraren förkroppsligar psykiskt en motståndares förmågeändringar och kopierar dem exakt."
+  },
+  "extremeSpeed": {
+    "name": "Gudafart",
+    "effect": "Utföraren anfaller motståndaren genom att ruscha dem med en bländande fart. Denna teknik går alltid först."
+  },
+  "ancientPower": {
+    "name": "Urkraft"
+  },
+  "shadowBall": {
+    "name": "Skuggboll"
+  },
+  "futureSight": {
+    "name": "Framtidssyn"
+  },
+  "rockSmash": {
+    "name": "Stenkrossare"
+  },
+  "whirlpool": {
+    "name": "Virvelström"
+  },
+  "beatUp": {
+    "name": "Gängattack"
+  },
+  "fakeOut": {
+    "name": "Bluffsmäll"
+  },
+  "uproar": {
+    "name": "Rabalder"
+  },
+  "stockpile": {
+    "name": "Lagring"
+  },
+  "spitUp": {
+    "name": "Uppspottning"
+  },
+  "swallow": {
+    "name": "Sväljning"
+  },
+  "heatWave": {
+    "name": "Siroccovind"
+  },
+  "hail": {
+    "name": "Hagel"
+  },
+  "torment": {
+    "name": "Hån",
+    "effect": "Utföraren hånar en motståndare till raseri; den kan sedan inte utföra samma teknik 2 gånger i rad."
+  },
+  "flatter": {
+    "name": "Smicker"
+  },
+  "willOWisp": {
+    "name": "Irrbloss",
+    "effect": "Utföraren skjuter en ödesdiger låga mot motståndaren för att orsaka en brännskada."
+  },
+  "memento": {
+    "name": "Memento mori"
+  },
+  "facade": {
+    "name": "Bravad"
+  },
+  "focusPunch": {
+    "name": "Fokuserad näve"
+  },
+  "smellingSalts": {
+    "name": "Skärpningssmocka",
+    "effect": "Attackens kraft fördubblas når motståndaren som den riktas mot är förlamad. Detta läker dock förlamningen också."
+  },
+  "followMe": {
+    "name": "Stridens mittpunkt"
+  },
+  "naturePower": {
+    "name": "Naturkraft"
+  },
+  "charge": {
+    "name": "Laddning"
+  },
+  "taunt": {
+    "name": "Provokation"
+  },
+  "helpingHand": {
+    "name": "Hjälpande hand"
+  },
+  "trick": {
+    "name": "Trolleritrick"
+  },
+  "rolePlay": {
+    "name": "Rollspel",
+    "effect": "Utföraren imiterar motståndaren fullständigt genom att kopiera motståndarens särdrag."
+  },
+  "wish": {
+    "name": "Önskan"
+  },
+  "assist": {
+    "name": "Schrödingers teknik",
+    "effect": "Utföraren utför en slumpmässig teknik från tekniklistan av lagmedlemmen vid sin sida i strid."
+  },
+  "ingrain": {
+    "name": "Rotfäste"
+  },
+  "superpower": {
+    "name": "Tokstyrka"
+  },
+  "magicCoat": {
+    "name": "Magimantel"
+  },
+  "recycle": {
+    "name": "Återbruk",
+    "effect": "Utföraren återvinner ett buret föremål som har använts i strid så att det kan användas igen."
+  },
+  "revenge": {
+    "name": "Hämnd"
+  },
+  "brickBreak": {
+    "name": "Tegelkrossare"
+  },
+  "yawn": {
+    "name": "Gäspning",
+    "effect": "Utföraren gäspar enormt, vilket får motståndaren att somna under följande omgång."
+  },
+  "knockOff": {
+    "name": "Tapprapp"
+  },
+  "endeavor": {
+    "name": "Jämlik-hets"
+  },
+  "eruption": {
+    "name": "Eruption"
+  },
+  "skillSwap": {
+    "name": "Personlighetsbyte",
+    "effect": "Utföraren använder sin psykiska kraft för att byta särdag med motståndaren."
+  },
+  "imprison": {
+    "name": "Försegling",
+    "effect": "Om motståndarna kan en eller fler tekniker som utföraren också kan, hindras de från att utföra dem."
+  },
+  "refresh": {
+    "name": "Förfriskning",
+    "effect": "Utföraren vilar och läker därmed förgiftning, brännskada eller förlamning."
+  },
+  "grudge": {
+    "name": "Efterdyning",
+    "effect": "Om utföraren svimmar utarmas all KP från tekniken som besegrade den."
+  },
+  "snatch": {
+    "name": "Usurpation",
+    "effect": "Utföraren stjäl effekterna av alla försök att utföra en läkande eller förmågeändrande teknik."
+  },
+  "secretPower": {
+    "name": "Hemlig kraft"
+  },
+  "dive": {
+    "name": "Dyk"
+  },
+  "armThrust": {
+    "name": "Handflatestötar"
+  },
+  "camouflage": {
+    "name": "Kamouflage"
+  },
+  "tailGlow": {
+    "name": "Eldflugeglöd"
+  },
+  "lusterPurge": {
+    "name": "Renande lyster"
+  },
+  "mistBall": {
+    "name": "Mistmoln"
+  },
+  "featherDance": {
+    "name": "Fjäderdans",
+    "effect": "Utföraren täcker motståndarens kropp med en massa fjädrar som skarpt sänker dess attackförmåga."
+  },
+  "teeterDance": {
+    "name": "Virrvarrdans"
+  },
+  "blazeKick": {
+    "name": "Brandspark",
+    "effect": "En brinnande spark mot en motståndare med 10 % chans att orsaka brännskada. Chansen för kritisk träff är +1."
+  },
+  "mudSport": {
+    "name": "Smutskastning"
+  },
+  "iceBall": {
+    "name": "Isklot"
+  },
+  "needleArm": {
+    "name": "Taggarm"
+  },
+  "slackOff": {
+    "name": "Vilopaus"
+  },
+  "hyperVoice": {
+    "name": "Kakofoni"
+  },
+  "poisonFang": {
+    "name": "Giftiga huggtänder",
+    "effect": "Utföraren biter motståndaren med giftiga huggtänder. Detta har 50 % chans att svårt förgifta motståndaren."
+  },
+  "crushClaw": {
+    "name": "Krossande klor"
+  },
+  "blastBurn": {
+    "name": "Infernobrisad",
+    "effect": "Motståndaren bombarderas i en eldig explosion. Utföraren kan inte röra sig i följande omgång."
+  },
+  "hydroCannon": {
+    "name": "Hydrokanon",
+    "effect": "Motståndaren träffas av en högtryckspumpad vattenstråle. Utföraren kan inte röra sig i följande omgång."
+  },
+  "meteorMash": {
+    "name": "Meteornäve"
+  },
+  "astonish": {
+    "name": "Skrämsel"
+  },
+  "weatherBall": {
+    "name": "Väderboll"
+  },
+  "aromatherapy": {
+    "name": "Aromaterapi",
+    "effect": "Utföraren släpper ut en lugnande doft som botar all tillståndspåverkan hos alla lagmedlemmar."
+  },
+  "fakeTears": {
+    "name": "Krokodiltårar"
+  },
+  "airCutter": {
+    "name": "Skärande vind",
+    "effect": "Utföraren skjuter en sylvass vindil som skär motståndarna. Chansen för kritisk träff är +1."
+  },
+  "overheat": {
+    "name": "Överhettning"
+  },
+  "odorSleuth": {
+    "name": "Detektivnos",
+    "effect": "Gör så att spöktyppokémon kan träffas av normal- och slagsmålstypattacker. Mycket undvikande motståndare kan även träffas utan risk för miss."
+  },
+  "rockTomb": {
+    "name": "Bumlingbur"
+  },
+  "silverWind": {
+    "name": "Silverfjällmoln"
+  },
+  "metalSound": {
+    "name": "Metallgnissel",
+    "effect": "Ett hemskt metallskrapande ljud sänker skarpt motståndarens försvarsförmåga."
+  },
+  "grassWhistle": {
+    "name": "Gräsvissla",
+    "effect": "Utföraren visslar en vacker melodi som får motståndaren att somna."
+  },
+  "tickle": {
+    "name": "Kittling"
+  },
+  "cosmicPower": {
+    "name": "Kosmokraft"
+  },
+  "waterSpout": {
+    "name": "Fontänattack"
+  },
+  "signalBeam": {
+    "name": "Signalstråle"
+  },
+  "shadowPunch": {
+    "name": "Skuggnäve",
+    "effect": "Utföraren slänger ett knytnävsslag från skuggorna. Denna attack missar aldrig."
+  },
+  "extrasensory": {
+    "name": "Övernaturlig kraft"
+  },
+  "skyUppercut": {
+    "name": "Flygande näve"
+  },
+  "sandTomb": {
+    "name": "Virvelsandfälla"
+  },
+  "sheerCold": {
+    "name": "Noll Kelvin"
+  },
+  "muddyWater": {
+    "name": "Lervatten"
+  },
+  "bulletSeed": {
+    "name": "Kulsprutefrön"
+  },
+  "aerialAce": {
+    "name": "Svalsvep",
+    "effect": "Utföraren flyger snabbt som en svala mot motståndaren och skär till innan den hinner reagera. Attacken träffar alltid."
+  },
+  "icicleSpear": {
+    "name": "Istappspjut"
+  },
+  "ironDefense": {
+    "name": "Järnpansar"
+  },
+  "block": {
+    "name": "Bro bro breja"
+  },
+  "howl": {
+    "name": "Yl"
+  },
+  "dragonClaw": {
+    "name": "Drakklo"
+  },
+  "frenzyPlant": {
+    "name": "Frenesifura",
+    "effect": "Utföraren skadar motståndaren med enorma trädrötter. Utföraren kan inte röra sig i följande omgång."
+  },
+  "bulkUp": {
+    "name": "Megabulk"
+  },
+  "bounce": {
+    "name": "Studs",
+    "effect": "Utföraren studsar högt upp i luften för att falla ner på motståndaren följande omgång. Detta har 30 % chans att förlama motståndaren."
+  },
+  "mudShot": {
+    "name": "Lerskott",
+    "effect": "Utföraren kastar en klump lera på motståndaren. Detta sänker också motståndarens snabbhet."
+  },
+  "poisonTail": {
+    "name": "Giftig svans",
+    "effect": "Utföraren skadar motståndaren med sin svans. Detta har 10 % chans att förgifta motståndaren. Chansen för kritisk träff är +1."
+  },
+  "covet": {
+    "name": "Efterfikande",
+    "effect": "Utföraren närmar sig motståndaren på ett gulligt sätt, fikande efter dess föremål, och attackerar med 30 % chans att stjäla ett buret föremål."
+  },
+  "voltTackle": {
+    "name": "Volttackling",
+    "effect": "Utföraren elektrifierar sig själv och springer rakt in i motståndaren. Utföraren tar själv ⅓ av skadan skedd. Detta har 10 % chans att förlama motståndaren."
+  },
+  "magicalLeaf": {
+    "name": "Magiska löv",
+    "effect": "Utföraren sprider underliga löv som jagar motståndaren. Denna attack missar aldrig."
+  },
+  "waterSport": {
+    "name": "Blötläggning"
+  },
+  "calmMind": {
+    "name": "Sinnesro",
+    "effect": "Utföraren fokuserar och lugnar sin själ i tystnad för att öka sin sp. atk- och sp. fsv-förmåga."
+  },
+  "leafBlade": {
+    "name": "Bladsblad",
+    "effect": "Utföraren skär motståndaren med ett sylvasst löv. Chansen för kritisk träff är +1."
+  },
+  "dragonDance": {
+    "name": "Drakens dans",
+    "effect": "Utföraren utför med vigör en mystisk, kraftfull dans som ökar dess attackförmåga och snabbhet."
+  },
+  "rockBlast": {
+    "name": "Stenslunga"
+  },
+  "shockWave": {
+    "name": "Direkt elström",
+    "effect": "Utföraren träffar motståndaren med en snabb elektrisk stöt. Denna attack missar aldrig."
+  },
+  "waterPulse": {
+    "name": "Vattenpulsering"
+  },
+  "doomDesire": {
+    "name": "Ödesdiger önskan"
+  },
+  "psychoBoost": {
+    "name": "Psykoknall"
+  },
+  "roost": {
+    "name": "Vingvila"
+  },
+  "gravity": {
+    "name": "Tyngdkraftsökning"
+  },
+  "miracleEye": {
+    "name": "Mirakelögon",
+    "effect": "Denna teknik gör så att mörktyper träffas av psyktyptekniker. Starkt undvikande motståndare kan också träffas utan risk för miss."
+  },
+  "wakeUpSlap": {
+    "name": "Upp-och-hoppa-propp",
+    "effect": "Denna tekniks kraft fördubblas på en sovande motståndare. Detta väcker dock även motståndaren."
+  },
+  "hammerArm": {
+    "name": "Hammarnäve"
+  },
+  "gyroBall": {
+    "name": "Gyroklot"
+  },
+  "healingWish": {
+    "name": "Uppoffringsönskan",
+    "effect": "Utföraren svimmar. I gengäld får dess avbytare all HP återställd och all tillståndspåverkan läks."
+  },
+  "brine": {
+    "name": "Saltvatten"
+  },
+  "naturalGift": {
+    "name": "Naturens gåva"
+  },
+  "feint": {
+    "name": "Fint"
+  },
+  "pluck": {
+    "name": "Pick-o-plock"
+  },
+  "tailwind": {
+    "name": "Medvind"
+  },
+  "acupressure": {
+    "name": "Akupressur",
+    "effect": "Utföraren applicerar tryck på en kroppspunkt, vilket skarpt ökar en förmåga hos den eller den vid dess sida."
+  },
+  "metalBurst": {
+    "name": "Metallknall"
+  },
+  "uTurn": {
+    "name": "Sländevändning",
+    "effect": "Efter att ha utfört attacken skyndar sig utföraren tillbaka för att byta plats med en avbytare."
+  },
+  "closeCombat": {
+    "name": "Närkamp"
+  },
+  "payback": {
+    "name": "Öga för öga"
+  },
+  "assurance": {
+    "name": "Saltisårsmäll"
+  },
+  "embargo": {
+    "name": "Beslag"
+  },
+  "fling": {
+    "name": "Redskapskast"
+  },
+  "psychoShift": {
+    "name": "Psykoskifte",
+    "effect": "Genom att använda psykisk suggestionskraft överför utföraren sin tillståndspåverkan till motståndaren."
+  },
+  "trumpCard": {
+    "name": "Trumf"
+  },
+  "healBlock": {
+    "name": "Läkstopp"
+  },
+  "wringOut": {
+    "name": "Urvridning"
+  },
+  "powerTrick": {
+    "name": "Krafttrick",
+    "effect": "Utföraren använder psykisk kraft för att byta sin attackförmåga med sin försvarsförmåga."
+  },
+  "gastroAcid": {
+    "name": "Magsaft",
+    "effect": "Utföraren stöter upp frätande magsaft på motståndaren. Saften eliminerar effekten av motståndarens särdrag."
+  },
+  "luckyChant": {
+    "name": "Lyckobesvärjelse"
+  },
+  "meFirst": {
+    "name": "Första tjing"
+  },
+  "copycat": {
+    "name": "Härmapa"
+  },
+  "powerSwap": {
+    "name": "Maktskifte",
+    "effect": "Utföraren använder psykisk kraft för byta alla sina attack- och sp.atk-förmågeändringar med motståndarens."
+  },
+  "guardSwap": {
+    "name": "Försvarsskifte",
+    "effect": "Utföraren använder psykisk kraft för byta alla försvar- och sp.fsv-förmågeändringar med motståndaren."
+  },
+  "punishment": {
+    "name": "Avhyvling"
+  },
+  "lastResort": {
+    "name": "Sista trumfen",
+    "effect": "Denna teknik kan endast utföras efter att utföraren har, under striden, använt dess andra 3 tekniker."
+  },
+  "worrySeed": {
+    "name": "Orosfrö",
+    "effect": "Ett frö som orsakar oro planteras på motståndaren. Fröt förhindrar sömn genom att ändra motståndarens särdrag till Sömnlös."
+  },
+  "suckerPunch": {
+    "name": "Överraskningsdask",
+    "effect": "Denna teknik gör det möjligt för utföraren att attackera först. Denna teknik misslyckas om motståndaren inte förbereder en attack."
+  },
+  "toxicSpikes": {
+    "name": "Giftanglar"
+  },
+  "heartSwap": {
+    "name": "Energiöverföring",
+    "effect": "Utföraren använder psykisk kraft för att byta sina förmågeändringar med motståndarens."
+  },
+  "aquaRing": {
+    "name": "Akvakrets",
+    "effect": "Utföraren täcks av en sfär gjord av vatten. Den återställer lite HP varje omgång."
+  },
+  "magnetRise": {
+    "name": "Magnetsvävning"
+  },
+  "flareBlitz": {
+    "name": "Brisant eldkrasch"
+  },
+  "forcePalm": {
+    "name": "Fājin-stöt",
+    "effect": "Utföraren skickar en chockvåg genom motståndarens kropp med inre kroppsenergi. Detta har 30 % chans att förlama motståndaren."
+  },
+  "auraSphere": {
+    "name": "Aurapulsering"
+  },
+  "rockPolish": {
+    "name": "Stenpolering"
+  },
+  "poisonJab": {
+    "name": "Gifthugg",
+    "effect": "Motståndaren huggs med en gifttäckt tentakel, arm eller dylikt. Detta har 30 % chans att förgifta motståndaren."
+  },
+  "darkPulse": {
+    "name": "Mörkerpulsering"
+  },
+  "nightSlash": {
+    "name": "Skugghugg",
+    "effect": "Utföraren skär till sin aningslösa motståndare från skuggorna. Chansen för kritisk träff är +1."
+  },
+  "aquaTail": {
+    "name": "Akvasvans",
+    "effect": "Utföraren attackerar genom att svinga sin svans som om den vore en våldsam våg i en rasande storm."
+  },
+  "seedBomb": {
+    "name": "Fröbomb"
+  },
+  "airSlash": {
+    "name": "Luftklinga"
+  },
+  "xScissor": {
+    "name": "X-sax"
+  },
+  "bugBuzz": {
+    "name": "Supersurr"
+  },
+  "dragonPulse": {
+    "name": "Drakpulsering",
+    "effect": "Motståndaren attackeras med en chockvåg som genereras i utförarens gap."
+  },
+  "dragonRush": {
+    "name": "Drakdykning"
+  },
+  "powerGem": {
+    "name": "Energijuveler",
+    "effect": "Utföraren attackerar med ljusstrålar som glittrar som om de var gjorda av juveler."
+  },
+  "drainPunch": {
+    "name": "Energislukarnäve"
+  },
+  "vacuumWave": {
+    "name": "Vakuumvåg",
+    "effect": "Utföraren virvlar med sina nävar för att skicka en våg av rent vakuum mot motståndaren. Denna teknik går alltid först."
+  },
+  "focusBlast": {
+    "name": "Kampandans kula"
+  },
+  "energyBall": {
+    "name": "Ekosfär"
+  },
+  "braveBird": {
+    "name": "Djärv störtdykning"
+  },
+  "earthPower": {
+    "name": "Geofysiskt tryck"
+  },
+  "switcheroo": {
+    "name": "Bytt-e-bytt"
+  },
+  "gigaImpact": {
+    "name": "Gigakollision",
+    "effect": "Utföraren tacklar in i motståndaren med all sin kraft. Utföraren kan inte röra sig i följande omgång."
+  },
+  "nastyPlot": {
+    "name": "Ond plan"
+  },
+  "bulletPunch": {
+    "name": "Kulsprutenävar",
+    "effect": "Utföraren slår motståndaren med tuffa knytnävar lika snabba som en kulspruta. Denna teknik går alltid först."
+  },
+  "avalanche": {
+    "name": "Lavin"
+  },
+  "iceShard": {
+    "name": "Isskärva",
+    "effect": "Utföraren snabbfryser isskärvor och kastar dem mot motståndaren. Denna teknik sker alltid först."
+  },
+  "shadowClaw": {
+    "name": "Skuggklo",
+    "effect": "Utföraren anfaller med klor skapade utav skugga. Chansen för kritisk träff är +1."
+  },
+  "thunderFang": {
+    "name": "Blixtbett"
+  },
+  "iceFang": {
+    "name": "Frysbett"
+  },
+  "fireFang": {
+    "name": "Eldbett"
+  },
+  "shadowSneak": {
+    "name": "Skuggsmygare",
+    "effect": "Utföraren utvidgar sin skugga och attackerar motståndaren bakifrån. Denna teknik går alltid först."
+  },
+  "mudBomb": {
+    "name": "Lerbomb"
+  },
+  "psychoCut": {
+    "name": "Sylvasst psyksvep",
+    "effect": "Utföraren skär motståndaren med blad skapade genom mental kraft. Chansen för kritisk träff är +1."
+  },
+  "zenHeadbutt": {
+    "name": "Zenskalle"
+  },
+  "mirrorShot": {
+    "name": "Spegelskott"
+  },
+  "flashCannon": {
+    "name": "Briljanskanon"
+  },
+  "rockClimb": {
+    "name": "Klippklättrare"
+  },
+  "defog": {
+    "name": "Klarblåst"
+  },
+  "trickRoom": {
+    "name": "Lurig zon"
+  },
+  "dracoMeteor": {
+    "name": "Draconidmeteor"
+  },
+  "discharge": {
+    "name": "Urladdning"
+  },
+  "lavaPlume": {
+    "name": "Pyroklast"
+  },
+  "leafStorm": {
+    "name": "Lövstorm"
+  },
+  "powerWhip": {
+    "name": "Mäktig piska"
+  },
+  "rockWrecker": {
+    "name": "Klippkrossare",
+    "effect": "Utföraren kastar en enorm stenblock mot motståndaren för att attackera. Utföraren kan inte röra sig i följande omgång."
+  },
+  "crossPoison": {
+    "name": "Giftigt korssvep",
+    "effect": "En skärande attack med en giftig klinga som kan förgifta motståndaren. Detta har 10 % chans att förgifta motståndaren. Chans för kritisk träff är +1."
+  },
+  "gunkShot": {
+    "name": "Avfallskanon",
+    "effect": "Utföraren avfyrar vidrigt avfall mot motståndaren. Detta har 30 % chans att förgifta motståndaren."
+  },
+  "ironHead": {
+    "name": "Järnskalle"
+  },
+  "magnetBomb": {
+    "name": "Magnetbomber",
+    "effect": "Utföraren avfyrar magnetiska bomber som fastnar på motståndaren. Denna attack missar aldrig."
+  },
+  "stoneEdge": {
+    "name": "Steneggar",
+    "effect": "Utföraren hugger motståndaren underifrån med kantiga stenar. Chansen för kritisk träff är +1."
+  },
+  "captivate": {
+    "name": "Förförelse",
+    "effect": "Om någon motståndare är av motsatt kön till utföraren, blir den förförd, vilket skarpt sänker dess sp. atk-förmåga."
+  },
+  "stealthRock": {
+    "name": "Svävande stenar"
+  },
+  "grassKnot": {
+    "name": "Grässnara"
+  },
+  "chatter": {
+    "name": "Tjatter"
+  },
+  "judgment": {
+    "name": "Domens ljus"
+  },
+  "bugBite": {
+    "name": "Insektbett"
+  },
+  "chargeBeam": {
+    "name": "Laddningstråle"
+  },
+  "woodHammer": {
+    "name": "Trähammare"
+  },
+  "aquaJet": {
+    "name": "Akvajet"
+  },
+  "attackOrder": {
+    "name": "Anfallsorder",
+    "effect": "Utföraren skickar sina undersåtar på motståndaren för att slå ner den. Chansen för kritisk träff är +1."
+  },
+  "defendOrder": {
+    "name": "Försvarsorder"
+  },
+  "healOrder": {
+    "name": "Läkningsorder"
+  },
+  "headSmash": {
+    "name": "Tokskallning"
+  },
+  "doubleHit": {
+    "name": "Dubbelsmocka"
+  },
+  "roarOfTime": {
+    "name": "Tidsvrål",
+    "effect": "Utföraren skadar motståndaren med en kraft som förvränger tiden själv. Utföraren kan inte röra sig i följande omgång."
+  },
+  "spacialRend": {
+    "name": "Rymdreva",
+    "effect": "Utföraren river hål i den fysiska rymden runt den för att skada motståndaren. Chansen för kritisk träff är +1."
+  },
+  "lunarDance": {
+    "name": "Månskärvans dans"
+  },
+  "crushGrip": {
+    "name": "Krossgrepp"
+  },
+  "magmaStorm": {
+    "name": "Magmastorm"
+  },
+  "darkVoid": {
+    "name": "Mörkt tomrum"
+  },
+  "seedFlare": {
+    "name": "Grönskegloria"
+  },
+  "ominousWind": {
+    "name": "Vedervärdig vind"
+  },
+  "shadowForce": {
+    "name": "Skuggrikepassage"
+  },
+  "honeClaws": {
+    "name": "Klovässning",
+    "effect": "Utföraren vässar sina klor för att öka sin attackförmåga och träffsäkerhet."
+  },
+  "wideGuard": {
+    "name": "Bred sköld"
+  },
+  "guardSplit": {
+    "name": "Försvarsutjämning"
+  },
+  "powerSplit": {
+    "name": "Attackutjämning"
+  },
+  "wonderRoom": {
+    "name": "Underlig zon"
+  },
+  "psyshock": {
+    "name": "Psychock"
+  },
+  "venoshock": {
+    "name": "Toxisk chock"
+  },
+  "autotomize": {
+    "name": "Autotomi"
+  },
+  "ragePowder": {
+    "name": "Irritationspulver"
+  },
+  "telekinesis": {
+    "name": "Telekinetiskt lyft"
+  },
+  "magicRoom": {
+    "name": "Magisk zon"
+  },
+  "smackDown": {
+    "name": "Skyhögt stenkast"
+  },
+  "stormThrow": {
+    "name": "Yama-Arashi-kast"
+  },
+  "flameBurst": {
+    "name": "Sprakande flamma"
+  },
+  "sludgeWave": {
+    "name": "Slamvåg"
+  },
+  "quiverDance": {
+    "name": "Hagafjärilns dans",
+    "effect": "Utföraren dansar en vacker, mystisk dans. Detta ökar utförarens snabbhet samt attack- och försvarsförmåga."
+  },
+  "heavySlam": {
+    "name": "Tungviktssmäll"
+  },
+  "synchronoise": {
+    "name": "Synkroniciton",
+    "effect": "Med en underlig ljudvåg skadar utföraren alla pokémon med samma typ som sig själv på stridsfältet."
+  },
+  "electroBall": {
+    "name": "Elektrosfär"
+  },
+  "soak": {
+    "name": "Genomdränkning"
+  },
+  "flameCharge": {
+    "name": "Nitrorusch"
+  },
+  "coil": {
+    "name": "Självringel"
+  },
+  "lowSweep": {
+    "name": "Låg svepspark",
+    "effect": "Utföraren gör en svepande spark mot motståndarens ben, vilket även sänker motståndarens snabbhet."
+  },
+  "acidSpray": {
+    "name": "Syrabomb"
+  },
+  "foulPlay": {
+    "name": "Fult spel"
+  },
+  "simpleBeam": {
+    "name": "Enfaldstråle"
+  },
+  "entrainment": {
+    "name": "Säregen pardans",
+    "effect": "Utföraren dansar i en udda rytm som tvingar motståndaren att härma den, vilket ändrar motståndarens särdrag till att bli samma som utförarens."
+  },
+  "afterYou": {
+    "name": "Varsågod",
+    "effect": "Utföraren hjälper en annan pokémon och får den att utföra sin teknik direkt efter utföraren."
+  },
+  "round": {
+    "name": "Kanonsång"
+  },
+  "echoedVoice": {
+    "name": "Ekande röst"
+  },
+  "chipAway": {
+    "name": "Avnötning"
+  },
+  "clearSmog": {
+    "name": "Neutralsmog"
+  },
+  "storedPower": {
+    "name": "Ansamlad kraft"
+  },
+  "quickGuard": {
+    "name": "Priogard",
+    "effect": "Utföraren skyddar sig själv och den vid sin sida från prioritetstekniker."
+  },
+  "allySwitch": {
+    "name": "Positionsbyte"
+  },
+  "scald": {
+    "name": "Skållvatten"
+  },
+  "shellSmash": {
+    "name": "Skalurbrytning"
+  },
+  "healPulse": {
+    "name": "Helande pulsering"
+  },
+  "hex": {
+    "name": "Tredje olyckan"
+  },
+  "skyDrop": {
+    "name": "Fritt fall",
+    "effect": "Utföraren lyfter en motståndare upp i luften för att sedan släppa den följande omgång. Motståndaren kan inte attackera medan den är i luften."
+  },
+  "shiftGear": {
+    "name": "Uppväxling"
+  },
+  "circleThrow": {
+    "name": "Cirkelkast"
+  },
+  "incinerate": {
+    "name": "Uppbränning",
+    "effect": "Utföraren spottar eld på motståndarna. Om någon av dem bär på föremål så bränns ett av deras föremål upp och blir oanvändbart."
+  },
+  "quash": {
+    "name": "Uppskjutning",
+    "effect": "Utföraren håller tillbaka motståndaren och gör så att dess teknik utförs sist."
+  },
+  "acrobatics": {
+    "name": "Akrobatik"
+  },
+  "reflectType": {
+    "name": "Typspegling"
+  },
+  "retaliate": {
+    "name": "Vedergällning"
+  },
+  "finalGambit": {
+    "name": "Livsuppoffring"
+  },
+  "bestow": {
+    "name": "Gåva"
+  },
+  "inferno": {
+    "name": "Skärseld",
+    "effect": "Utföraren bränner motståndaren i en intensiv eld. Detta orskar en brännskada på motståndaren."
+  },
+  "waterPledge": {
+    "name": "Vattenlöfte"
+  },
+  "firePledge": {
+    "name": "Eldlöfte"
+  },
+  "grassPledge": {
+    "name": "Gräslöfte"
+  },
+  "voltSwitch": {
+    "name": "Strömbytare",
+    "effect": "Efter att ha utfört attacken skyndar sig utföraren tillbaka för att byta plats med en avbytare."
+  },
+  "struggleBug": {
+    "name": "Småkrypskytt"
+  },
+  "bulldoze": {
+    "name": "Jordstamp",
+    "effect": "Utföraren träffar alla runt omkring sig genom att stampa ner på marken. Detta sänker snabbheten hos de träffade."
+  },
+  "frostBreath": {
+    "name": "Köldanda"
+  },
+  "dragonTail": {
+    "name": "Draksvans"
+  },
+  "workUp": {
+    "name": "Pigghet"
+  },
+  "electroweb": {
+    "name": "Elnät"
+  },
+  "wildCharge": {
+    "name": "Vildvolt"
+  },
+  "drillRun": {
+    "name": "Skövlingsborr",
+    "effect": "Utföraren kraschar in i motståndaren medan den roterar kroppen som en borr. Chansen för kritisk träff är +1."
+  },
+  "dualChop": {
+    "name": "Dubbla drakhugg",
+    "effect": "Utföraren slår motståndaren med brutala hugg. Motståndaren träffas två gånger i rad."
+  },
+  "heartStamp": {
+    "name": "Hjärtklapp"
+  },
+  "hornLeech": {
+    "name": "Parasitväxthorn"
+  },
+  "sacredSword": {
+    "name": "Helgat svärd"
+  },
+  "razorShell": {
+    "name": "Snäcksvärd"
+  },
+  "heatCrash": {
+    "name": "Eldbollskrossare"
+  },
+  "leafTornado": {
+    "name": "Bladorkan"
+  },
+  "steamroller": {
+    "name": "Ångvältmosare"
+  },
+  "cottonGuard": {
+    "name": "Bomullsrustning"
+  },
+  "nightDaze": {
+    "name": "Kvällsmäll"
+  },
+  "psystrike": {
+    "name": "Psykrossare"
+  },
+  "tailSlap": {
+    "name": "Svansdask"
+  },
+  "hurricane": {
+    "name": "Orkan"
+  },
+  "headCharge": {
+    "name": "Hårdhårsskalle"
+  },
+  "gearGrind": {
+    "name": "Kugghjulsmalare"
+  },
+  "searingShot": {
+    "name": "Brandbomb"
+  },
+  "technoBlast": {
+    "name": "Teknostråle"
+  },
+  "relicSong": {
+    "name": "Relikmelodi"
+  },
+  "secretSword": {
+    "name": "Enigmatisk egg"
+  },
+  "glaciate": {
+    "name": "Glaciation"
+  },
+  "boltStrike": {
+    "name": "Blixtangrepp",
+    "effect": "Utföraren skapar ett massiv mängd av el runt sig och hoppar på motståndaren. Detta har 20 % chans att förlama motståndaren."
+  },
+  "blueFlare": {
+    "name": "Blå låga"
+  },
+  "fieryDance": {
+    "name": "Lågornas dans"
+  },
+  "freezeShock": {
+    "name": "Frostvolt",
+    "effect": "Utföraren laddar först upp för att träffa motståndaren med elladdad is följande omgång. Detta har 30 % chans att förlama motståndaren."
+  },
+  "iceBurn": {
+    "name": "Hypotermisk köld"
+  },
+  "snarl": {
+    "name": "Utskällning"
+  },
+  "icicleCrash": {
+    "name": "Isspetsare"
+  },
+  "vCreate": {
+    "name": "V-brännare"
+  },
+  "fusionFlare": {
+    "name": "Fusionflamma"
+  },
+  "fusionBolt": {
+    "name": "Fusionblixt"
+  },
+  "flyingPress": {
+    "name": "Flygande press"
+  },
+  "matBlock": {
+    "name": "Tatamisköld",
+    "effect": "Med en tatamimatta som sköld skyddar utföraren sig själv och den vid sin sida mot skadande tekniker. Den hindrar inte inverkanstekniker."
+  },
+  "belch": {
+    "name": "Rapning",
+    "effect": "Utföraren rapar ut gas som skadar motståndaren. Utföraren måste äta ett buret bär för att utföra denna teknik."
+  },
+  "rototiller": {
+    "name": "Kultivator"
+  },
+  "stickyWeb": {
+    "name": "Klibbnät"
+  },
+  "fellStinger": {
+    "name": "Grymgadd"
+  },
+  "phantomForce": {
+    "name": "Fantompassage"
+  },
+  "trickOrTreat": {
+    "name": "Halloweenbus"
+  },
+  "nobleRoar": {
+    "name": "Ädelryt"
+  },
+  "ionDeluge": {
+    "name": "Plasmakaskad",
+    "effect": "Utföraren sprider elektriska partiklar som ändrar alla pokémons normaltyptekniker till eltyp under omgången."
+  },
+  "parabolicCharge": {
+    "name": "Parabolisk ström"
+  },
+  "forestsCurse": {
+    "name": "Skogens förbannelse"
+  },
+  "petalBlizzard": {
+    "name": "Blombladsstorm"
+  },
+  "freezeDry": {
+    "name": "Frystork"
+  },
+  "disarmingVoice": {
+    "name": "Ömkligt läte",
+    "effect": "Ett ömkligt läte påverkar motståndarna emotionellt och skadar dem. Tekniken missar aldrig."
+  },
+  "partingShot": {
+    "name": "Sista känga"
+  },
+  "topsyTurvy": {
+    "name": "Opp-och-ner",
+    "effect": "Alla förmågeändringar som hänt motståndaren vänts upp och ned och blir motsatsen."
+  },
+  "drainingKiss": {
+    "name": "Livsslukarpuss"
+  },
+  "craftyShield": {
+    "name": "Lurisköld",
+    "effect": "Utföraren skyddar sig och den vid sin sida mot inverkanstekniker med en mystisk sköld. Detta stoppar inte skadande tekniker."
+  },
+  "flowerShield": {
+    "name": "Blomstersköld"
+  },
+  "grassyTerrain": {
+    "name": "Grästerräng"
+  },
+  "mistyTerrain": {
+    "name": "Dimmterräng"
+  },
+  "electrify": {
+    "name": "Elektrifiering"
+  },
+  "playRough": {
+    "name": "Skojbråk"
+  },
+  "fairyWind": {
+    "name": "Trolsk vind"
+  },
+  "moonblast": {
+    "name": "Månknall"
+  },
+  "boomburst": {
+    "name": "Ultraknall"
+  },
+  "fairyLock": {
+    "name": "Älvring"
+  },
+  "kingsShield": {
+    "name": "Kungasköld"
+  },
+  "playNice": {
+    "name": "Kamratlighet",
+    "effect": "Utföraren leker snäll mot motståndaren så att den förlorar sin vilja att slåss. Detta sänker motståndarens attackförmåga."
+  },
+  "confide": {
+    "name": "Hemlis",
+    "effect": "Utföraren berättar en hemlighet för motståndaren så att den tappar koncentrationen. Detta sänker motståndarens sp. atk-förmåga."
+  },
+  "diamondStorm": {
+    "name": "Diamantstorm"
+  },
+  "steamEruption": {
+    "name": "Ångutbrott"
+  },
+  "hyperspaceHole": {
+    "name": "Dimensionlucka"
+  },
+  "waterShuriken": {
+    "name": "Vattenshuriken"
+  },
+  "mysticalFire": {
+    "name": "Mystikflamma"
+  },
+  "spikyShield": {
+    "name": "Tornsköld"
+  },
+  "aromaticMist": {
+    "name": "Arommoln"
+  },
+  "eerieImpulse": {
+    "name": "Ovanlig impuls",
+    "effect": "Utförarens kropp genererar en mystisk impuls som skarpt sänker motståndarens sp. atk-förmåga."
+  },
+  "venomDrench": {
+    "name": "Extratoxin",
+    "effect": "Motståndarna dränks i ett ovanligt toxin som sänker attack- och sp. atk-förmåga samt snabbheten hos förgiftade motståndare."
+  },
+  "powder": {
+    "name": "Brännbart damm"
+  },
+  "geomancy": {
+    "name": "Geomanti"
+  },
+  "magneticFlux": {
+    "name": "Magnetflöde"
+  },
+  "happyHour": {
+    "name": "Guld i mund",
+    "effect": "Tekniken fördubblar mängden prispengar efter en tränarstrid."
+  },
+  "electricTerrain": {
+    "name": "Elterräng"
+  },
+  "dazzlingGleam": {
+    "name": "Trolsk lyster",
+    "effect": "Utföraren skadar motståndarna genom att utstråla ett kraftigt ljussken."
+  },
+  "celebrate": {
+    "name": "Grattis",
+    "effect": "Pokémonen grattar dig på din dag!"
+  },
+  "holdHands": {
+    "name": "Hand i hand",
+    "effect": "Utföraren och den vid sin sidas håller varandra i hand. De blir så glada så."
+  },
+  "babyDollEyes": {
+    "name": "Valpögon",
+    "effect": "Utföraren stirrar på motståndaren med bedjande ögon, vilket sänker motståndarens attackförmåga. Denna teknik går alltid först."
+  },
+  "nuzzle": {
+    "name": "Kindgos"
+  },
+  "holdBack": {
+    "name": "Varsam smocka",
+    "effect": "Utföraren attackerar försiktigt så att motståndaren har kvar minst 1 HP."
+  },
+  "infestation": {
+    "name": "Infestation"
+  },
+  "powerUpPunch": {
+    "name": "Peppnäve"
+  },
+  "oblivionWing": {
+    "name": "Ragnaröksvingar"
+  },
+  "thousandArrows": {
+    "name": "Tusenpilar"
+  },
+  "thousandWaves": {
+    "name": "Tusenvågor"
+  },
+  "landsWrath": {
+    "name": "Jordens vrede"
+  },
+  "lightOfRuin": {
+    "name": "Fördärvets ljus"
+  },
+  "originPulse": {
+    "name": "Urpulsering",
+    "effect": "Utföraren attackerar motståndarna med otaliga ljusstrålar som lyser i en briljant djupblå färg."
+  },
+  "precipiceBlades": {
+    "name": "Klippbrantsklingor",
+    "effect": "Utföraren attackerar motståndarna genom att manifestera jordens kraft in i skräckinjagande stenklingor."
+  },
+  "dragonAscent": {
+    "name": "Zenitstormare"
+  },
+  "hyperspaceFury": {
+    "name": "Hyperrymdsrusch"
+  },
+  "breakneckBlitzPhysical": {
+    "name": "Blixtsnabbt brakarstryk",
+    "effect": "Utföraren bygger upp momentum med sin Z-kraft och kraschar in i motståndaren i full fart. Kraften varierar beroende på den ursprungliga tekninen."
+  },
+  "breakneckBlitzSpecial": {
+    "name": "Blixtsnabbt brakarstryk",
+    "effect": "Dummy Data"
+  },
+  "allOutPummelingPhysical": {
+    "name": "Megamastig mörbultare",
+    "effect": "Utföraren rammar ett energiklot skapat av dess Z-kraft in i motståndaren med full kraft. Kraften beror på den ursprungliga tekniken."
+  },
+  "allOutPummelingSpecial": {
+    "name": "Megamastig mörbultare",
+    "effect": "Dummy Data"
+  },
+  "supersonicSkystrikePhysical": {
+    "name": "Supersonisk skystöt",
+    "effect": "Utföraren flyger upp med sin Z-kraft och störtar mot motståndaren i full fart. Kraften beror på det ursprungliga tekniken."
+  },
+  "supersonicSkystrikeSpecial": {
+    "name": "Supersonisk skystöt",
+    "effect": "Dummy Data"
+  },
+  "acidDownpourPhysical": {
+    "name": "Supersur smittoskur",
+    "effect": "Utföraren skickar ner toxiskt regn med sin Z-kraft och genomsyrar motståndaren med gift. Kraften beror på den ursprungliga tekniken."
+  },
+  "acidDownpourSpecial": {
+    "name": "Supersur smittoskur",
+    "effect": "Dummy Data"
+  },
+  "tectonicRagePhysical": {
+    "name": "Jättarnas jordkrossare",
+    "effect": "Utföraren gräver djupt ner i marken och kraschar in i motståndaren med all sin Z-kraft. Kraften beror på den ursprungliga tekniken."
+  },
+  "tectonicRageSpecial": {
+    "name": "Jättarnas jordkrossare",
+    "effect": "Dummy Data"
+  },
+  "continentalCrushPhysical": {
+    "name": "Bombastisk bautasten",
+    "effect": "Utföraren frammanar en enorm klippsten med sin Z-kraft och släpper den på motståndaren. Kraften beror på den ursprungliga tekniken."
+  },
+  "continentalCrushSpecial": {
+    "name": "Bombastisk bautasten",
+    "effect": "Dummy Data"
+  },
+  "savageSpinOutPhysical": {
+    "name": "Kaotisk kokongkrasch",
+    "effect": "Utföraren binder motståndaren med superstarka silkestrådar som utföraren spottat ut med sin Z-kraft. Kraften beror på den ursprungliga tekniken."
+  },
+  "savageSpinOutSpecial": {
+    "name": "Kaotisk kokongkrasch",
+    "effect": "Dummy Data"
+  },
+  "neverEndingNightmarePhysical": {
+    "name": "Naturvidrig nattmara",
+    "effect": "Djuprotat agg frammanat av utförarens Z-kraft fångar motståndaren i hemsk mardröm. Kraften varierar beroende på det ursprungliga draget."
+  },
+  "neverEndingNightmareSpecial": {
+    "name": "Naturvidrig nattmara",
+    "effect": "Dummy Data"
+  },
+  "corkscrewCrashPhysical": {
+    "name": "Titanklädd terrorborr",
+    "effect": "Utföraren snurrar extremt snabbt och rammar in i motståndaren med all sin Z-kraft. Kraften beror på den ursprungliga tekniken."
+  },
+  "corkscrewCrashSpecial": {
+    "name": "Titanklädd terrorborr",
+    "effect": "Dummy Data"
+  },
+  "infernoOverdrivePhysical": {
+    "name": "Infernalisk intensitet",
+    "effect": "Utföraren blåser ut en stark ström av glödhet eld mot motståndaren med all sin Z-kraft. Kraften beror på den ursprungliga tekniken."
+  },
+  "infernoOverdriveSpecial": {
+    "name": "Infernalisk intensitet",
+    "effect": "Dummy Data"
+  },
+  "hydroVortexPhysical": {
+    "name": "Megastrid malström",
+    "effect": "Utföraren skapar en enorm malström med sin Z-kraft som sväljer och dränker motståndaren. Kraften beror på den ursprungliga tekniken."
+  },
+  "hydroVortexSpecial": {
+    "name": "Megastrid malström",
+    "effect": "Dummy Data"
+  },
+  "bloomDoomPhysical": {
+    "name": "Blomedagsblombardering",
+    "effect": "Utföraren samlar energi från växter med sin Z-kraft och attackerar motståndaren med full styrka. Kraften beror på den ursprungliga tekniken."
+  },
+  "bloomDoomSpecial": {
+    "name": "Blomedagsbombardering",
+    "effect": "Dummy Data"
+  },
+  "gigavoltHavocPhysical": {
+    "name": "Zettavoltzappare",
+    "effect": "Utföraren träffar motståndaren med en kraftfull elektrisk ström som samlas in av dess Z-kraft. Kraften beror på den ursprungliga tekniken."
+  },
+  "gigavoltHavocSpecial": {
+    "name": "Zettavoltzappare",
+    "effect": "Dummy Data"
+  },
+  "shatteredPsychePhysical": {
+    "name": "Psykessöndersmulare",
+    "effect": "Utföraren smular sönders motståndarens tankar med sin Z-kraft. Kraften beror på den ursprungliga tekniken."
+  },
+  "shatteredPsycheSpecial": {
+    "name": "Psykessöndersmulare",
+    "effect": "Dummy Data"
+  },
+  "subzeroSlammerPhysical": {
+    "name": "Nifelheimsk nadirfrost",
+    "effect": "Utföraren sänker temperaturen till långt under noll med sin Z-kraft och fryser nästan ihjäl motståndaren. Kraften beror på den ursprungliga tekniken."
+  },
+  "subzeroSlammerSpecial": {
+    "name": "Nifelheimsk nadirfrost",
+    "effect": "Dummy Data"
+  },
+  "devastatingDrakePhysical": {
+    "name": "Dödsföraktande drakfurste",
+    "effect": "Utföraren materialiserar sin aura med sin Z-kraft och attackerar motståndaren med full styrka. Kraften beror på den ursprungliga tekniken."
+  },
+  "devastatingDrakeSpecial": {
+    "name": "Dödsföraktande drakfurste",
+    "effect": "Dummy Data"
+  },
+  "blackHoleEclipsePhysical": {
+    "name": "Becksvart bråddjupsluk",
+    "effect": "Utföraren samlar mörk energi med sin Z-kraft och suger in motståndaren i den. Kraften beror på den ursprungliga tekniken."
+  },
+  "blackHoleEclipseSpecial": {
+    "name": "Becksvart bråddjupsluk",
+    "effect": "Dummy Data"
+  },
+  "twinkleTacklePhysical": {
+    "name": "Superstjärnskenskräll",
+    "effect": "Utföraren skapar en förtrollande zon med sin Z-kraft och leker sönder motståndaren. Kraften beror på den ursprungliga tekniken."
+  },
+  "twinkleTackleSpecial": {
+    "name": "Superstjärnskenskräll",
+    "effect": "Dummy Data"
+  },
+  "catastropika": {
+    "name": "Pika-Pikatastrof",
+    "effect": "Utföraren Pikachu omger sig med maximal mängd elektricitet med sin Z-kraft och anfaller sin motståndare."
+  },
+  "shoreUp": {
+    "name": "Sandbunkring"
+  },
+  "firstImpression": {
+    "name": "På-fluga"
+  },
+  "banefulBunker": {
+    "name": "Virulent värn"
+  },
+  "spiritShackle": {
+    "name": "Skuggstygn"
+  },
+  "darkestLariat": {
+    "name": "DM-Lariat"
+  },
+  "sparklingAria": {
+    "name": "Bubblande aria"
+  },
+  "iceHammer": {
+    "name": "Ishammarnäve"
+  },
+  "floralHealing": {
+    "name": "Blomsterhelning"
+  },
+  "highHorsepower": {
+    "name": "Höga hästkrafter",
+    "effect": "Utföraren attackerar våldsamt motståndaren med hela kroppen."
+  },
+  "strengthSap": {
+    "name": "Styrkeslukare"
+  },
+  "solarBlade": {
+    "name": "Solsvärd"
+  },
+  "leafage": {
+    "name": "Bladverk",
+    "effect": "Utföraren attackerar genom att slänga löv på motståndaren."
+  },
+  "spotlight": {
+    "name": "Rampljus",
+    "effect": "Utföraren riktar rampljus på en motståndare så att endast den kan attackeras under omgången."
+  },
+  "toxicThread": {
+    "name": "Toxintrådar"
+  },
+  "laserFocus": {
+    "name": "Koncentration",
+    "effect": "Utföraren koncentrerar sig intensivt. Attacken följande omgång resulterar alltid i en kritisk träff."
+  },
+  "gearUp": {
+    "name": "Extra drivhjul"
+  },
+  "throatChop": {
+    "name": "Halsmangel"
+  },
+  "pollenPuff": {
+    "name": "Pollenpuff"
+  },
+  "anchorShot": {
+    "name": "Ankarskott"
+  },
+  "psychicTerrain": {
+    "name": "Psykoterräng"
+  },
+  "lunge": {
+    "name": "Påhopp",
+    "effect": "Utföraren gör ett utfall mot motståndaren och attackerar med full kraft. Detta sänker också motståndarens attackförmåga."
+  },
+  "fireLash": {
+    "name": "Eldpiska",
+    "effect": "Utföraren slår motståndaren med en brinnande piska. Detta sänker också motståndarens försvarsförmåga."
+  },
+  "powerTrip": {
+    "name": "Översitteri"
+  },
+  "burnUp": {
+    "name": "Uppbrand"
+  },
+  "speedSwap": {
+    "name": "Snabbhetsbyte",
+    "effect": "Utföraren utbyter snabbhet med motståndaren."
+  },
+  "smartStrike": {
+    "name": "På-korn-horn",
+    "effect": "Utföraren hugger motståndaren med ett vasst horn. Denna attack missar aldrig."
+  },
+  "purify": {
+    "name": "Reningceremoni"
+  },
+  "revelationDance": {
+    "name": "Insiktsdans"
+  },
+  "coreEnforcer": {
+    "name": "Straffande kärna"
+  },
+  "tropKick": {
+    "name": "Gräslig spark",
+    "effect": "Utföraren landar en intensiv spark av tropiskt ursprung på motståndaren. Detta sänker också motståndarens attackförmåga."
+  },
+  "instruct": {
+    "name": "Återkommando"
+  },
+  "beakBlast": {
+    "name": "Kanonnäbb"
+  },
+  "clangingScales": {
+    "name": "Klingande fjäll"
+  },
+  "dragonHammer": {
+    "name": "Drakhammare"
+  },
+  "brutalSwing": {
+    "name": "Brutalt sving",
+    "effect": "Utföraren svänger sin kropp våldsamt runt för att skada allt i dess närhet."
+  },
+  "auroraVeil": {
+    "name": "Polarskärm"
+  },
+  "sinisterArrowRaid": {
+    "name": "Skuggornas pilregn",
+    "effect": "Utföraren Decidueye skjuter otaliga pilar med sin Z-kraft och skjuter motståndaren med full styrka."
+  },
+  "maliciousMoonsault": {
+    "name": "Maliciös megamosare",
+    "effect": "Utföraren Incineroar stärker sin kropp med sin Z-kraft och kraschar in i motståndaren med full styrka."
+  },
+  "oceanicOperetta": {
+    "name": "Oceanisk operetta",
+    "effect": "Utföraren Primarina frammanar en enorm mängd vatten med sin Z-kraft och attackerar motståndaren med full styrka."
+  },
+  "guardianOfAlola": {
+    "name": "Alolas väktare",
+    "effect": "Utföraren tar in Alolas energi med sin Z-Kraft och attackerar motståndaren med full styrka. Detta sänker motståndarens HP avsevärt."
+  },
+  "soulStealing7StarStrike": {
+    "name": "Själstjälande sjustjärnssmäll",
+    "effect": "Efter att ha tagit in Z-kraft slår och sparkar utföraren, Marshadow, motståndaren med full styrka."
+  },
+  "stokedSparksurfer": {
+    "name": "Spänningsfylld strömsurfare",
+    "effect": "Efter att ha erhållit Z-kraft anfaller utföraren Alolansk Raichu motståndaren med all sin kraft. Detta förlamar motståndaren."
+  },
+  "pulverizingPancake": {
+    "name": "Pulveriserande plattpress",
+    "effect": "Z-kraft väcker Snorlax utförarens verkliga potential. Den rör sin enorma kropp energiskt och attackerar motståndaren med full styrka."
+  },
+  "extremeEvoboost": {
+    "name": "Extrem evolutionsenergi",
+    "effect": "Efter att den har tagit in Z-kraft får utföraren Eevee energi från sina utvecklade vänner och ökar alla sina förmågor skarpt."
+  },
+  "genesisSupernova": {
+    "name": "Ursprungssupernova",
+    "effect": "Med full Z-kraft attackerar utföraren Mew motståndaren psykiskt. Terrängen laddas sedan med psykisk energi."
+  },
+  "shellTrap": {
+    "name": "Snäckfälla",
+    "effect": "Utföraren skapar en skalfälla. Om utföraren träffas av en fysisk teknik kommer fällan att explodera och orsaka skada på motståndarna."
+  },
+  "fleurCannon": {
+    "name": "Canon de Fleur"
+  },
+  "psychicFangs": {
+    "name": "Psykbett"
+  },
+  "stompingTantrum": {
+    "name": "Stampande utbrott"
+  },
+  "shadowBone": {
+    "name": "Själad knota"
+  },
+  "accelerock": {
+    "name": "Snabbsten",
+    "effect": "Utföraren smäller in i motståndaren med hög hastighet. Denna teknik går alltid först."
+  },
+  "liquidation": {
+    "name": "Akvakvaddare"
+  },
+  "prismaticLaser": {
+    "name": "Prismalaser",
+    "effect": "Utföraren skjuter kraftfulla lasrar med prismatisk kraft. Utföraren kan inte röra sig följande omgång."
+  },
+  "spectralThief": {
+    "name": "Själstjälare",
+    "effect": "Utföraren gömmer sig i motståndarens skugga och stjäl motståndarens förmågeökningar samtidigt som den attackerar."
+  },
+  "sunsteelStrike": {
+    "name": "Stålsolsstyrka"
+  },
+  "moongeistBeam": {
+    "name": "Marmånesmakt"
+  },
+  "tearfulLook": {
+    "name": "Tåriga ögon"
+  },
+  "zingZap": {
+    "name": "Elektripik"
+  },
+  "naturesMadness": {
+    "name": "Naturens vrede"
+  },
+  "multiAttack": {
+    "name": "Variatypangrepp"
+  },
+  "tenMillionVoltThunderbolt": {
+    "name": "10 000 000 Voltsblixt",
+    "effect": "Utföraren, Keps-Pikachu, laddar upp en massiv elstöt med sin Z-kraft och släpper den lös. Chansen för kritisk träff är +2."
+  },
+  "mindBlown": {
+    "name": "Skallknall"
+  },
+  "plasmaFists": {
+    "name": "Plasmanävar",
+    "effect": "Utföraren attackerar med elladdade nävar. Denna teknik ändrar normaltyptekniker till eltyp."
+  },
+  "photonGeyser": {
+    "name": "Fotongejser"
+  },
+  "lightThatBurnsTheSky": {
+    "name": "Ljuset som bränner skyarna"
+  },
+  "searingSunrazeSmash": {
+    "name": "Stekande solärsfärsstöt"
+  },
+  "menacingMoonrazeMaelstrom": {
+    "name": "Maliciös månmaktsmalare"
+  },
+  "letsSnuggleForever": {
+    "name": "Myspysig mordlust",
+    "effect": "Utföraren Mimikyu tar in Z-kraft och bankar motståndaren med full styrka."
+  },
+  "splinteredStormshards": {
+    "name": "Stormande splitterskärvor",
+    "effect": "Utföraren Lycanroc tar in Z-kraft och anfaller motståndaren med full styrka. Denna teknik upphäver effekterna på stridsfältet."
+  },
+  "clangorousSoulblaze": {
+    "name": "Skramlande själaeld",
+    "effect": "Utföraren Kommo-o tar in Z-kraft och anfaller båda motståndarna med full styrka. Denna teknik ökar utförarens förmågor."
+  },
+  "zippyZap": {
+    "name": "Knasterkrasch",
+    "effect": "Utföraren attackerar motståndaren med elektriska utbrott i hög hastighet. Denna teknik går alltid först och resulterar i en kritisk träff."
+  },
+  "splishySplash": {
+    "name": "Pladaskplask"
+  },
+  "floatyFall": {
+    "name": "Flaxflaxfall"
+  },
+  "pikaPapow": {
+    "name": "Pikachock"
+  },
+  "bouncyBubble": {
+    "name": "Botande bubbla"
+  },
+  "buzzyBuzz": {
+    "name": "Spännande stöt"
+  },
+  "sizzlySlide": {
+    "name": "Stekande snyting"
+  },
+  "glitzyGlow": {
+    "name": "Alstrande aura"
+  },
+  "baddyBad": {
+    "name": "Isolerande illvilja"
+  },
+  "sappySeed": {
+    "name": "Sående stjälk"
+  },
+  "freezyFrost": {
+    "name": "Förtagande frost",
+    "effect": "Utföraren attackerar med en kristall gjord av kyligt frusen dis. Det tar bort förmågeändringarna hos alla på stridsfältet."
+  },
+  "sparklySwirl": {
+    "name": "Sanerande skimmer"
+  },
+  "veeveeVolley": {
+    "name": "Veeveevåld"
+  },
+  "doubleIronBash": {
+    "name": "Dubbelpansarnäve"
+  },
+  "maxGuard": {
+    "name": "Maxgard"
+  },
+  "dynamaxCannon": {
+    "name": "Dynamaxkanon"
+  },
+  "snipeShot": {
+    "name": "Prickskytte",
+    "effect": "Utföraren ignorerar effekten av motståndares tekniker / särdrag som drar till sig tekniker. Chansen för kritisk träff är +1."
+  },
+  "jawLock": {
+    "name": "Låskäke",
+    "effect": "Denna teknik förhindrar att utföraren och motståndaren från att bytas av förrän någon av dem svimmar. Effekten försvinner om någon av dem lämnar fältet."
+  },
+  "stuffCheeks": {
+    "name": "Glufs"
+  },
+  "noRetreat": {
+    "name": "Sista bastion"
+  },
+  "tarShot": {
+    "name": "Tjärskott"
+  },
+  "magicPowder": {
+    "name": "Trolleripulver"
+  },
+  "dragonDarts": {
+    "name": "Drakpilar"
+  },
+  "teatime": {
+    "name": "Fika"
+  },
+  "octolock": {
+    "name": "Åttarmsgrepp"
+  },
+  "boltBeak": {
+    "name": "Spännäbb"
+  },
+  "fishiousRend": {
+    "name": "Brankialbett"
+  },
+  "courtChange": {
+    "name": "Planhalvsbyte",
+    "effect": "Med sin mystiska kraft byter utföraren runt effekterna på vardera sidan av stridsfältet."
+  },
+  "maxFlare": {
+    "name": "Maxpyro"
+  },
+  "maxFlutterby": {
+    "name": "Maximago",
+    "effect": "Detta är en insekttypattack som dynamaxpokémon utför. Den sänker motståndarens sp. atk-förmåga."
+  },
+  "maxLightning": {
+    "name": "Maxelectro"
+  },
+  "maxStrike": {
+    "name": "Maxagresso",
+    "effect": "Detta är en normaltypattack som dynamaxpokémon utför. Den sänker motståndarens snabbhet."
+  },
+  "maxKnuckle": {
+    "name": "Maxiboxi"
+  },
+  "maxPhantasm": {
+    "name": "Maxafantasm",
+    "effect": "Detta är en spöktypattack som dynamaxpokémon utför. Den sänker motståndarens försvarsförmåga."
+  },
+  "maxHailstorm": {
+    "name": "Maxiglacia"
+  },
+  "maxOoze": {
+    "name": "Maxitoxin"
+  },
+  "maxGeyser": {
+    "name": "Maxiakva"
+  },
+  "maxAirstream": {
+    "name": "Maxivindi"
+  },
+  "maxStarfall": {
+    "name": "Maxastella"
+  },
+  "maxWyrmwind": {
+    "name": "Maxormr",
+    "effect": "Detta är en draktypattack som dynamaxpokémon utför. Den sänker motståndarens attackförmåga."
+  },
+  "maxMindstorm": {
+    "name": "Maxisinne"
+  },
+  "maxRockfall": {
+    "name": "Maxiklippa"
+  },
+  "maxQuake": {
+    "name": "Maxiterra"
+  },
+  "maxDarkness": {
+    "name": "Maxidunkel",
+    "effect": "Detta är en mörktypattack som dynamaxpokémon utför. Detta sänker motståndarens sp. fsv-förmåga."
+  },
+  "maxOvergrowth": {
+    "name": "Maxaväx"
+  },
+  "maxSteelspike": {
+    "name": "Maxametall"
+  },
+  "clangorousSoul": {
+    "name": "Själklingare"
+  },
+  "bodyPress": {
+    "name": "Kroppspressare"
+  },
+  "decorate": {
+    "name": "Dekoration"
+  },
+  "drumBeating": {
+    "name": "Trumslag",
+    "effect": "Utföraren spelar på sin trumma och kontrollerar trummans rötter för att attackera motståndaren. Detta sänker också motståndarens snabbhet."
+  },
+  "snapTrap": {
+    "name": "Fällsax"
+  },
+  "pyroBall": {
+    "name": "Flamboll"
+  },
+  "behemothBlade": {
+    "name": "Vidundersvärja",
+    "effect": "Utföraren svingar ett stort, kraftfullt svärd med hela kroppen och hugger motståndaren i en kraftig attack."
+  },
+  "behemothBash": {
+    "name": "Vidundersvärn",
+    "effect": "Utförarens kropp blir en robust sköld och slår hårt in i motståndaren."
+  },
+  "auraWheel": {
+    "name": "Aurahjul"
+  },
+  "breakingSwipe": {
+    "name": "Svepkrossare",
+    "effect": "Utföraren svingar sin bastanta svans vilt och attackerar motståndarna. Detta sänker också deras attackförmåga."
+  },
+  "branchPoke": {
+    "name": "Pinnpetning",
+    "effect": "Utföraren attackerar motståndaren genom att peta till den med en vass gren."
+  },
+  "overdrive": {
+    "name": "Gigadecibel"
+  },
+  "appleAcid": {
+    "name": "Äppelsyra",
+    "effect": "Utföraren attackerar motståndaren med en syra gjord av sura äpplen. Detta sänker också motståndarens sp. fsv-förmåga."
+  },
+  "gravApple": {
+    "name": "Tyngdkraftigt äpple"
+  },
+  "spiritBreak": {
+    "name": "Själknäckare",
+    "effect": "Utföraren attackerar motståndaren med så mycket kraft att den knäcker dess mod. Detta sänker också motståndarens sp. atk-förmåga."
+  },
+  "strangeSteam": {
+    "name": "Mystisk ånga"
+  },
+  "lifeDew": {
+    "name": "Livsdagg"
+  },
+  "obstruct": {
+    "name": "Blockad"
+  },
+  "falseSurrender": {
+    "name": "Låtsasuppgivelse",
+    "effect": "Utföraren låtsas böja huvudet, men hugger sedan motståndaren med sitt rufsiga hår. Denna attack missar aldrig."
+  },
+  "meteorAssault": {
+    "name": "Stjärnstormning"
+  },
+  "eternabeam": {
+    "name": "Eternalster",
+    "effect": "Detta är Eternatus kraftfullaste attack i dess ursprungliga form. Utföraren kan inte röra sig följande omgång."
+  },
+  "steelBeam": {
+    "name": "Stålestråle"
+  },
+  "expandingForce": {
+    "name": "Expansiv energi"
+  },
+  "steelRoller": {
+    "name": "Järnkavel"
+  },
+  "scaleShot": {
+    "name": "Skottfjäll"
+  },
+  "meteorBeam": {
+    "name": "Meteorenergi"
+  },
+  "shellSideArm": {
+    "name": "Musselpuffra",
+    "effect": "Denna teknik orsakar fysisk eller speciell skada, beroende på vilken som är mest effektiv. Detta har 20 % chans att förgifta motståndaren."
+  },
+  "mistyExplosion": {
+    "name": "Dimmexplosion"
+  },
+  "grassyGlide": {
+    "name": "Gräsglidare"
+  },
+  "risingVoltage": {
+    "name": "Stigande spänning"
+  },
+  "terrainPulse": {
+    "name": "Terrängpulsering"
+  },
+  "skitterSmack": {
+    "name": "Krypande klatsch",
+    "effect": "Utföraren kryper bakom motståndaren för att attackera den. Detta sänker också motståndarens sp. atk-förmåga."
+  },
+  "burningJealousy": {
+    "name": "Brinnande avund",
+    "effect": "Utföraren attackerar utav stark avundsjuka. Alla moståndare som har ökat sina förmågor under omgången får en brännskada."
+  },
+  "lashOut": {
+    "name": "Ilskeutbrott"
+  },
+  "poltergeist": {
+    "name": "Poltergeist"
+  },
+  "corrosiveGas": {
+    "name": "Korrosionsgas"
+  },
+  "coaching": {
+    "name": "Coachning",
+    "effect": "Utföraren coachar den vid sin sida ordentligt, vilket ökar dess attack- och försvarsförmåga."
+  },
+  "flipTurn": {
+    "name": "Voltvändning",
+    "effect": "Efter att ha utfört attacken skyndar sig utföraren tillbaka för att byta plats med en avbytare."
+  },
+  "tripleAxel": {
+    "name": "Trippelaxel"
+  },
+  "dualWingbeat": {
+    "name": "Dubbla vingslag"
+  },
+  "scorchingSands": {
+    "name": "Ökensand"
+  },
+  "jungleHealing": {
+    "name": "Djungelhelning"
+  },
+  "wickedBlow": {
+    "name": "Mörkrets nävslag"
+  },
+  "surgingStrikes": {
+    "name": "Nävkaskad"
+  },
+  "thunderCage": {
+    "name": "Blixtbur"
+  },
+  "dragonEnergy": {
+    "name": "Drakenergi"
+  },
+  "freezingGlare": {
+    "name": "Iskall blick"
+  },
+  "fieryWrath": {
+    "name": "Hetlevrad vrede"
+  },
+  "thunderousKick": {
+    "name": "Blixtsnabb spark",
+    "effect": "Utföraren överväldigar motståndaren med blixtsnabba rörelser för att sedan sparka till. Detta sänker också motståndarens försvarsförmåga."
+  },
+  "glacialLance": {
+    "name": "Glaciallans",
+    "effect": "Utföraren attackerar genom att kasta lansar av glaciäris på motståndarna."
+  },
+  "astralBarrage": {
+    "name": "Astralfragment",
+    "effect": "Utföraren attackerar genom att skicka en fruktansvärd mängd små spöken på motståndarna."
+  },
+  "eerieSpell": {
+    "name": "Kuslig trollformel"
+  },
+  "direClaw": {
+    "name": "Katastrofklor"
+  },
+  "psyshieldBash": {
+    "name": "Psykosköldstöt",
+    "effect": "Utföraren höljer sig i psykisk energi och kraschar in i motståndaren. Detta ökar också utförarens försvarsförmåga."
+  },
+  "powerShift": {
+    "name": "Kraftskifte",
+    "effect": "Utföraren byter sin attackförmåga och försvarsförmåga."
+  },
+  "stoneAxe": {
+    "name": "Stenyxa"
+  },
+  "springtideStorm": {
+    "name": "Sol-och-vårens storm"
+  },
+  "mysticalPower": {
+    "name": "Mystisk kraft",
+    "effect": "Utföraren avger en mystisk kraft och skadar en motståndare. Detta ökar också utförarens sp. atk-förmåga."
+  },
+  "ragingFury": {
+    "name": "Glödhett raseri"
+  },
+  "waveCrash": {
+    "name": "Vågkrasch"
+  },
+  "chloroblast": {
+    "name": "Kloroplastråle"
+  },
+  "mountainGale": {
+    "name": "Isbergskalvning"
+  },
+  "victoryDance": {
+    "name": "Segerdans",
+    "effect": "Utföraren utför en intensiv dans i segerns namn, vilket ökar dess attack- och försvarsförmåga samt snabbhet."
+  },
+  "headlongRush": {
+    "name": "Huvudstupakrock",
+    "effect": "Utföraren krockar huvudstupa in i motståndaren. Detta sänker också utförarens försvars- och sp. fsv-förmåga."
+  },
+  "barbBarrage": {
+    "name": "Tusen nålar",
+    "effect": "Utföraren avfyrar tusentals giftiga nålar in i motståndaren. Detta har 20 % chans att förgifta motståndaren. Teknikens kraft fördubblas om motståndaren redan är förgiftad."
+  },
+  "esperWing": {
+    "name": "Auravinge",
+    "effect": "Utföraren hugger i motståndaren med auraklädda vingar. Detta ökar utförarens snabbhet. Chansen för kritisk träff är +1."
+  },
+  "bitterMalice": {
+    "name": "Bittert agg",
+    "effect": "Utföraren attackerar motståndaren med hemskt förbittrade känslor. Detta sänker också motståndarens attackförmåga."
+  },
+  "shelter": {
+    "name": "Barrikad",
+    "effect": "Utföraren gör sin hud lika hård som en järnbarrikad, vilket skarpt ökar försvarsförmåga."
+  },
+  "tripleArrows": {
+    "name": "Trippelpil",
+    "effect": "Utföraren sparkar och avfyrar tre pilar på en motståndare, med 50 % chans att sänka dess försvarsförmåga och 30 % chans att få den att rygga tillbaka. Chansen för kritisk träff är +1."
+  },
+  "infernalParade": {
+    "name": "Helvetesparad"
+  },
+  "ceaselessEdge": {
+    "name": "Skärvig snäckkatana"
+  },
+  "bleakwindStorm": {
+    "name": "Kulenvindens storm"
+  },
+  "wildboltStorm": {
+    "name": "Kornblixtens storm"
+  },
+  "sandsearStorm": {
+    "name": "Brandsandens storm"
+  },
+  "lunarBlessing": {
+    "name": "Månskärans bön"
+  },
+  "takeHeart": {
+    "name": "Heroiskt kurage",
+    "effect": "Utföraren stålsätter sitt hjärta, botar sin tillståndspåverkan och ökar både sp.atk- och sp.fsv-förmåga."
+  },
+  "gMaxWildfire": {
+    "name": "G-maxad glödhetta"
+  },
+  "gMaxBefuddle": {
+    "name": "G-maxad glamor",
+    "effect": "En insekttypattack som en G-maxad Butterfree använder. Den förgifter, förlamar eller söver motståndarna."
+  },
+  "gMaxVoltCrash": {
+    "name": "G-maxad gigawatt",
+    "effect": "En eltypattack som en G-maxad Pikachu använder. Den förlamar motståndarna."
+  },
+  "gMaxGoldRush": {
+    "name": "G-maxad guldrush",
+    "effect": "En normaltypattack som en G-maxad Meowth utför. Den förvirrar motståndare och ger också extra pengar efter strid."
+  },
+  "gMaxChiStrike": {
+    "name": "G-maxad gyaku-tsuki",
+    "effect": "En slagsmålstypteknik som en G-maxad Machamp utför. Den taggar upp utföraren och den vid dess sida så att deras chans för kritisk träff blir +1."
+  },
+  "gMaxTerror": {
+    "name": "G-maxad gastkram",
+    "effect": "En spöktypattack som en G-maxad Gengar utför. Den kramar fast motståndaren för att hindra den från att fly."
+  },
+  "gMaxResonance": {
+    "name": "G-maxat glissando"
+  },
+  "gMaxCuddle": {
+    "name": "G-maxat gosigos",
+    "effect": "En normaltypattack som en G-maxad Eevee utför. Den gör motståndaren kär."
+  },
+  "gMaxReplenish": {
+    "name": "G-maxad gröda"
+  },
+  "gMaxMalodor": {
+    "name": "G-maxad geggamoja",
+    "effect": "En gifttypattack som en G-maxad Garbodor utför. Den förgiftar motståndarna."
+  },
+  "gMaxStonesurge": {
+    "name": "G-maxad grusström"
+  },
+  "gMaxWindRage": {
+    "name": "G-maxad grovstorm"
+  },
+  "gMaxStunShock": {
+    "name": "G-maxad giftchock",
+    "effect": "En eltypattack som en G-maxad Toxtricity använder. Den förgifter eller förlamar motståndarna."
+  },
+  "gMaxFinale": {
+    "name": "G-maxat gott slut"
+  },
+  "gMaxDepletion": {
+    "name": "G-maxad grymhet"
+  },
+  "gMaxGravitas": {
+    "name": "G-maxad gravitation"
+  },
+  "gMaxVolcalith": {
+    "name": "G-maxad geotermi"
+  },
+  "gMaxSandblast": {
+    "name": "G-maxad granitgruva"
+  },
+  "gMaxSnooze": {
+    "name": "G-maxad gäspning",
+    "effect": "En mörktypattack som G-maxad Grimmsnarl utför. Utföraren gäspar enormt vilket vaggar motståndaren till sömns följande omgång."
+  },
+  "gMaxTartness": {
+    "name": "G-maxad garvsyra",
+    "effect": "En grästypattack som en G-maxad Flapple utför. Den sänker motståndarnas undvikande."
+  },
+  "gMaxSweetness": {
+    "name": "G-maxade go’äpplen",
+    "effect": "En grästypattack som en G-maxad Appletun utför. Den läker tillståndspåverkan hos utföraren och den vid sin sida."
+  },
+  "gMaxSmite": {
+    "name": "G-maxat gudsstraff",
+    "effect": "En fetypattack som en G-maxad Hatterene utför. Den förvirrar motståndare."
+  },
+  "gMaxSteelsurge": {
+    "name": "G-maxad galvanisering"
+  },
+  "gMaxMeltdown": {
+    "name": "G-maxat gjutjärn",
+    "effect": "En ståltypattack som en G-maxad Melmetal utför. Den gör det omöjligt för motståndare att utföra samma teknik två gånger i rad."
+  },
+  "gMaxFoamBurst": {
+    "name": "G-maxad gejser",
+    "effect": "En vattentypattack som en G-maxad Kingler utför. Den sänker skarpt motståndarnas snabbhet."
+  },
+  "gMaxCentiferno": {
+    "name": "G-maxad grymbrand"
+  },
+  "gMaxVineLash": {
+    "name": "G-maxad gräspiska"
+  },
+  "gMaxCannonade": {
+    "name": "G-maxad gevärsvall"
+  },
+  "gMaxDrumSolo": {
+    "name": "G-maxad grästrumma"
+  },
+  "gMaxFireball": {
+    "name": "G-maxad gnistboll"
+  },
+  "gMaxHydrosnipe": {
+    "name": "G-maxad grovkaliber"
+  },
+  "gMaxOneBlow": {
+    "name": "G-maxad gråsop"
+  },
+  "gMaxRapidFlow": {
+    "name": "G-maxad garddränkare"
+  },
+  "teraBlast": {
+    "name": "Teraexplosion",
+    "effect": "Om utföraren har Terastalliserats frigör den energi av sin Teratyp. Denna teknik orsakar attack- eller sp.atk-skada, beroende på vilken som är högst hos utföraren."
+  },
+  "silkTrap": {
+    "name": "Silkesfälla"
+  },
+  "axeKick": {
+    "name": "Yxspark"
+  },
+  "lastRespects": {
+    "name": "Postumt hedrande"
+  },
+  "luminaCrash": {
+    "name": "Luminakrasch",
+    "effect": "Utföraren släpper lös ett säreget ljus som påverkar sinnet. Den sänker också motståndarens sp.fsv-förmåga skarpt."
+  },
+  "orderUp": {
+    "name": "Dagens rättvisa"
+  },
+  "jetPunch": {
+    "name": "Jetnäve",
+    "effect": "Utföraren kallar fram en ström runt sin knytnäve och slår med bländande snabbhet. Denna teknik går alltid först."
+  },
+  "spicyExtract": {
+    "name": "Kapsaicinsaft",
+    "effect": "Utföraren skjuter ett otroligt kryddigt extrakt som skarpt ökar motståndarens attackförmåga men skarpt sänker dess försvarsförmåga."
+  },
+  "spinOut": {
+    "name": "Däcksladdare",
+    "effect": "Utföraren sladdar ursinnigt genom att anstränga benen, vilket orsakar skada på motståndaren. Detta sänker också utförarens snabbhet skarpt."
+  },
+  "populationBomb": {
+    "name": "Överbedolkning"
+  },
+  "iceSpinner": {
+    "name": "Ispiruett",
+    "effect": "Utföraren täcker fötterna i tunn is, snurrar runt och slår till motståndaren. Snurrandet förstör också terrängen."
+  },
+  "glaiveRush": {
+    "name": "Glavkrasch",
+    "effect": "Utföraren kastar sig på motståndaren vårdslöst. Efter att denna teknik har använts så kan attacker mot utföraren inte missa och de orsakar dubbel skada tills utförarens nästa omgång."
+  },
+  "revivalBlessing": {
+    "name": "Livsvälsingnelse",
+    "effect": "Utföraren ger en kärleksfull välsignelse, återupplivar en avsvimmad lagmedlem och återställer hälften av dess max. HP."
+  },
+  "saltCure": {
+    "name": "Torrsaltning"
+  },
+  "tripleDive": {
+    "name": "Trippeldyk"
+  },
+  "mortalSpin": {
+    "name": "Mortal saltomortal"
+  },
+  "doodle": {
+    "name": "Avbildning",
+    "effect": "Utföraren fångar essensen av en pokémon med ett porträtt. Utföraren och den vid dess sida får därmed samma särdrag som den avbildade."
+  },
+  "filletAway": {
+    "name": "Kött från benen"
+  },
+  "kowtowCleave": {
+    "name": "Knäfallskniv",
+    "effect": "Utföraren hugger motståndaren efter ett knäfall för att få motståndaren att sänka garden. Denna attack missar aldrig."
+  },
+  "flowerTrick": {
+    "name": "Trolleribukett",
+    "effect": "Utföraren kastar en riggad blombukett mot motståndaren. Denna attack missar aldrig och träffar alltid kritiskt."
+  },
+  "torchSong": {
+    "name": "Eldtenor",
+    "effect": "Utföraren blåser en rasande låga på motståndaren genom att sjunga en sång. Den ökar även utförarens sp. atk-förmåga."
+  },
+  "aquaStep": {
+    "name": "Akvadanssteg",
+    "effect": "Utföraren leker med motståndaren och attackerar den med lätta och flytande danssteg. Detta ökar även utförarens snabbhet."
+  },
+  "ragingBull": {
+    "name": "Tjurigt språng"
+  },
+  "makeItRain": {
+    "name": "Guldregn"
+  },
+  "psyblade": {
+    "name": "Psyklinga"
+  },
+  "hydroSteam": {
+    "name": "Överhettad ånga"
+  },
+  "ruination": {
+    "name": "Katastrof"
+  },
+  "collisionCourse": {
+    "name": "Kollisionskurs"
+  },
+  "electroDrift": {
+    "name": "Autoeldrift"
+  },
+  "shedTail": {
+    "name": "Tappad svans"
+  },
+  "chillyReception": {
+    "name": "Kylig stämning"
+  },
+  "tidyUp": {
+    "name": "Ordning och reda",
+    "effect": "Utföraren städar fältet och tar bort effekterna av Fotanglar, Svävande stenar, Klibbnät, Giftanglar och Bulvan. Tekniken ökar även utförarens attackförmåga och snabbhet."
+  },
+  "snowscape": {
+    "name": "Snölandskap"
+  },
+  "pounce": {
+    "name": "Språng",
+    "effect": "Utföraren kastar sig på motståndaren med ett språng. Detta sänker även motståndarens snabbhet."
+  },
+  "trailblaze": {
+    "name": "Banbrytare",
+    "effect": "Utföraren attackerar som om den hoppar ut ur högt gräs. Utförarens smidiga fotarbete ökar även dess snabbhet."
+  },
+  "chillingWater": {
+    "name": "Isbad",
+    "effect": "Utföraren attackerar genom att dränka motståndaren i vatten som är så kallt att det sänker motståndarens attackförmåga."
+  },
+  "hyperDrill": {
+    "name": "Hyperborr",
+    "effect": "Utföraren snurrar den spetsiga delen av sin kropp för att genomborra motståndaren. Attacken träffar motståndare även om de använder t.ex. Skyddsköld eller Parering."
+  },
+  "twinBeam": {
+    "name": "Tvillingstråle",
+    "effect": "Utföraren skjuter två mystiska strålar från sina ögon för att orsaka skada. Motståndaren träffas 2 gånger i rad."
+  },
+  "rageFist": {
+    "name": "Aggnäve"
+  },
+  "armorCannon": {
+    "name": "Rustningskanon"
+  },
+  "bitterBlade": {
+    "name": "Grämelsens glav"
+  },
+  "doubleShock": {
+    "name": "Fullvoltchock"
+  },
+  "gigatonHammer": {
+    "name": "Gigatonhammare",
+    "effect": "Utföraren svingar hela sin kropp för att attackera med sin enorma hammare. Tekniken kan inte utföras två gånger i rad."
+  },
+  "comeuppance": {
+    "name": "Vendetta"
+  },
+  "aquaCutter": {
+    "name": "Skärande ström",
+    "effect": "Utföraren sprutar en ström av vatten med så högt tryck att den skär motståndaren. Chansen för kritisk träff är +1."
+  },
+  "blazingTorque": {
+    "name": "Magmamotor"
+  },
+  "wickedTorque": {
+    "name": "Malismotor"
+  },
+  "noxiousTorque": {
+    "name": "Morbidmotor",
+    "effect": "Utföraren varvar upp sin miljöfarliga motor och kör in i motståndaren. Detta har 30 % chans att förgifta motståndaren."
+  },
+  "combatTorque": {
+    "name": "Mörbultemotor",
+    "effect": "Utföraren varvar upp sin motor och kör, med stor kraft, rakt in i motståndaren. Detta har 30 % chans att förlama motståndaren."
+  },
+  "magicalTorque": {
+    "name": "Mysteriemotor"
+  },
+  "bloodMoon": {
+    "name": "Blodmåne",
+    "effect": "Utföraren släpper lös den råa makten av sin fullmånessjäl, röd som blod. Tekniken kan inte utföras två gånger i rad."
+  },
+  "matchaGotcha": {
+    "name": "Matchaklatsch"
+  },
+  "syrupBomb": {
+    "name": "Sirapsbomb"
+  },
+  "ivyCudgel": {
+    "name": "Murgrönepåk",
+    "effect": "Utföraren anfaller med en murgrönetäckt påk. Chansen för kritisk träff är +1. När Ogerpon utför tekniken ändras typen beroende på vilken mask den bär."
+  },
+  "electroShot": {
+    "name": "Elektroskott",
+    "effect": "Utföraren samlar el på första omgången, vilket ökar dess sp.atk-förmåga, för att sedan avfyra ett högspänningsskott följande omgång. Skottet avfyras omedelbart i regn."
+  },
+  "teraStarstorm": {
+    "name": "Terastjärnstorm"
+  },
+  "fickleBeam": {
+    "name": "Irregulaser"
+  },
+  "burningBulwark": {
+    "name": "Brinnande bålverk"
+  },
+  "thunderclap": {
+    "name": "Åskvigg",
+    "effect": "Tekniken låter utföraren attackera först med en elektrisk stöt. Denna teknik misslyckas om motståndaren inte förbereder en attack."
+  },
+  "mightyCleave": {
+    "name": "Mäktig klinga"
+  },
+  "tachyonCutter": {
+    "name": "Takyonsnitt",
+    "effect": "Utföraren avfyrar partikelblad mot motståndaren 2 gånger i rad. Denna attack missar aldrig."
+  },
+  "hardPress": {
+    "name": "Hårdpressare"
+  },
+  "dragonCheer": {
+    "name": "Drakens stridsrop"
+  },
+  "alluringVoice": {
+    "name": "Hänförande röst",
+    "effect": "Utföraren attackerar motståndaren med sin änglalika röst. Detta förvirrar också motståndaren om en förmåga har ökat under omgången."
+  },
+  "temperFlare": {
+    "name": "Febrig flamma",
+    "effect": "Sporrad av desperation attackerar utföraren motståndaren. Teknikens kraft fördubblas om utförarens tidigare teknik har misslyckats."
+  },
+  "supercellSlam": {
+    "name": "Supercellsmäll"
+  },
+  "psychicNoise": {
+    "name": "Pyskoljud"
+  },
+  "upperHand": {
+    "name": "Överhand",
+    "effect": "Utföraren reagerar på rörelse och slår till med handflatan, vilket får motståndaren att rygga tillbaka. Detta misslyckas om motståndaren inte förbereder ett prioritetsteknik."
+  },
+  "malignantChain": {
+    "name": "Malign kedja",
+    "effect": "Utföraren binder motståndaren med en giftig, frätande kedja för skada den. Detta har 50 % chans att svårt förgifta motståndaren."
+  },
+  "nihilLight": {
+    "name": "Lux Nihilum",
+    "effect": "Utföraren släpper lös ett kraftfullt ljus som trotsar alla naturlagar. Den träffar även fetyper och ignorerar alla förmågeändringar hos motståndarna."
+  }
+}
