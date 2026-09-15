@@ -75,7 +75,6 @@ async function startGame(): Promise<void> {
   // 잘못 인식해서 캔버스가 작게 잡히는 문제 대응.
   const forceRescale = () => {
     game.scale.refresh();
-    window.dispatchEvent(new Event("resize"));
   };
   setTimeout(forceRescale, 300);
   setTimeout(forceRescale, 1000);
@@ -83,6 +82,18 @@ async function startGame(): Promise<void> {
     if (document.visibilityState === "visible") {
       forceRescale();
     }
+  });
+
+  // [MOD] 세로 모드: 비율 유지(FIT, 여백 생김) / 가로 모드: 화면 꽉 채우기(ENVELOP, 살짝 잘림)
+  const updateScaleModeForOrientation = () => {
+    const isLandscape = window.innerWidth > window.innerHeight;
+    game.scale.setMode(isLandscape ? Phaser.Scale.ENVELOP : Phaser.Scale.FIT);
+    forceRescale();
+  };
+  updateScaleModeForOrientation();
+  window.addEventListener("resize", updateScaleModeForOrientation);
+  window.addEventListener("orientationchange", () => {
+    setTimeout(updateScaleModeForOrientation, 300);
   });
 }
 
