@@ -95,6 +95,24 @@ async function startGame(): Promise<void> {
   window.addEventListener("orientationchange", () => {
     setTimeout(updateScaleModeForOrientation, 300);
   });
+  // 안드로이드 웹뷰에서는 resize/orientationchange 이벤트가 안 터지는 경우가 있어
+  // 실제 화면 크기 변화를 직접 감시하는 방식도 같이 사용
+  if (typeof ResizeObserver !== "undefined") {
+    let lastWasLandscape = window.innerWidth > window.innerHeight;
+    const observer = new ResizeObserver(() => {
+      const isLandscapeNow = window.innerWidth > window.innerHeight;
+      if (isLandscapeNow !== lastWasLandscape) {
+        lastWasLandscape = isLandscapeNow;
+        updateScaleModeForOrientation();
+      }
+    });
+    observer.observe(document.documentElement);
+  }
+  if (typeof screen !== "undefined" && screen.orientation) {
+    screen.orientation.addEventListener("change", () => {
+      setTimeout(updateScaleModeForOrientation, 300);
+    });
+  }
 }
 
 try {
