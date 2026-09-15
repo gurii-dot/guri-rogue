@@ -59,6 +59,7 @@ jobs:
                 v.setPadding(bars.left, bars.top, bars.right, bars.bottom);
                 return insets;
               });
+              webView.post(() -> ViewCompat.requestApplyInsets(webView));
             }
           }
           EOF
