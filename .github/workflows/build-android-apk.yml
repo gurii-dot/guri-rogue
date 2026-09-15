@@ -36,25 +36,6 @@ jobs:
           rm -rf android
           npx cap add android
 
-      - name: Enable safe area layout
-        run: |
-          mkdir -p android/app/src/main/java/net/pokerogue/app
-          cat > android/app/src/main/java/net/pokerogue/app/MainActivity.java << 'EOF'
-          package net.pokerogue.app;
-
-          import android.graphics.Color;
-          import android.os.Bundle;
-          import com.getcapacitor.BridgeActivity;
-
-          public class MainActivity extends BridgeActivity {
-            @Override
-            protected void onCreate(Bundle savedInstanceState) {
-              super.onCreate(savedInstanceState);
-              getBridge().getWebView().setBackgroundColor(Color.RED);
-            }
-          }
-          EOF
-
       - name: Sync Capacitor
         run: npx cap sync android
 
