@@ -35,6 +35,53 @@ jobs:
         run: |
           rm -rf android
           npx cap add android
+          
+      - name: Enable native fullscreen
+        run: |
+          mkdir -p android/app/src/main/java/net/pokerogue/app
+          cat > android/app/src/main/java/net/pokerogue/app/MainActivity.java << 'EOF'
+          package net.pokerogue.app;
+
+          import android.os.Bundle;
+          import android.os.Handler;
+          import android.os.Looper;
+          import androidx.core.view.WindowCompat;
+          import androidx.core.view.WindowInsetsCompat;
+          import androidx.core.view.WindowInsetsControllerCompat;
+          import com.getcapacitor.BridgeActivity;
+
+          public class MainActivity extends BridgeActivity {
+            private void hideSystemBars() {
+              WindowCompat.setDecorFitsSystemWindows(getWindow(), false);
+              WindowInsetsControllerCompat controller =
+                  WindowCompat.getInsetsController(getWindow(), getWindow().getDecorView());
+              controller.setSystemBarsBehavior(
+                  WindowInsetsControllerCompat.BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE);
+              controller.hide(WindowInsetsCompat.Type.systemBars());
+            }
+
+            @Override
+            protected void onCreate(Bundle savedInstanceState) {
+              super.onCreate(savedInstanceState);
+              hideSystemBars();
+              new Handler(Looper.getMainLooper()).postDelayed(this::hideSystemBars, 500);
+            }
+
+            @Override
+            public void onWindowFocusChanged(boolean hasFocus) {
+              super.onWindowFocusChanged(hasFocus);
+              if (hasFocus) {
+                hideSystemBars();
+              }
+            }
+
+            @Override
+            public void onResume() {
+              super.onResume();
+              hideSystemBars();
+            }
+          }
+          EOF 
 
       - name: Sync Capacitor
         run: npx cap sync android
