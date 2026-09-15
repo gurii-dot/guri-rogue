@@ -5975,7 +5975,7 @@ export class PlayerPokemon extends Pokemon {
     if (fusionStarterSpeciesId) {
       candyFriendshipMultiplier /= timedEventManager.areFusionsBoosted() ? 1.5 : 2;
     }
-    const candyFriendshipAmount = Math.floor(friendship * candyFriendshipMultiplier);
+    const candyFriendshipAmount = Math.floor(friendship * candyFriendshipMultiplier * 5); // [MOD] 캔디 획득량 5배
     // Add to candy progress for this mon's starter species and its fused species (if it has one)
     starterData.forEach(([sd, id]: [StarterDataEntry, SpeciesId]) => {
       sd.friendship = (sd.friendship || 0) + candyFriendshipAmount;
