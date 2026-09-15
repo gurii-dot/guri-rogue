@@ -9,6 +9,8 @@
   --color-base: hsl(0, 0%, 55%);
   --color-light: hsl(0, 0%, 90%);
   --color-dark: hsl(0, 0%, 10%);
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
 }
 
 html {
@@ -21,6 +23,8 @@ body {
   flex-direction: column;
   align-items: center;
   background: #484050;
+  padding-top: var(--safe-top);
+  box-sizing: border-box;
 }
 
 @media (display-mode: fullscreen) {
@@ -99,7 +103,7 @@ input:-internal-autofill-selected {
   --controls-size: 10vh;
   --touch-control-opacity: 0.6;
 
-  --controls-padding: 1rem;
+  --controls-padding: calc(1rem + var(--safe-bottom));
 
   --controls-size-with-padding: calc(
     var(--controls-size) +
