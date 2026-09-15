@@ -135,8 +135,6 @@ input:-internal-autofill-selected {
   font-size: var(--controls-size);
   text-shadow: var(--color-dark) var(--text-shadow-size) var(--text-shadow-size);
   color: var(--color-light);
-  padding-bottom: var(--safe-bottom);
-  box-sizing: border-box;
 }
 
 @media (orientation: landscape) {
@@ -162,6 +160,7 @@ input:-internal-autofill-selected {
   justify-content: space-around;
   align-items: center;
   width: var(--controls-size);
+  transform: translateY(calc(-1 * var(--safe-bottom)));
 }
 
 .control-group-dpad {
@@ -369,13 +368,13 @@ input:-internal-autofill-selected {
 }
 
 #control-group-action {
-  right: var(--controls-padding);
-  bottom: var(--controls-size-with-padding);
+  right: var(--controls-size-with-wide-padding);
+  bottom: var(--controls-padding);
 }
 
 #control-group-cancel {
-  right: var(--controls-size-with-wide-padding);
-  bottom: var(--controls-padding);
+  right: var(--controls-padding);
+  bottom: var(--controls-size-with-padding);
 }
 
 #control-group-extra-1 {
