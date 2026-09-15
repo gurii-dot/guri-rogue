@@ -368,13 +368,13 @@ input:-internal-autofill-selected {
 }
 
 #control-group-action {
-  right: var(--controls-size-with-wide-padding);
-  bottom: var(--controls-padding);
+  right: var(--controls-padding);
+  bottom: var(--controls-size-with-padding);
 }
 
 #control-group-cancel {
-  right: var(--controls-padding);
-  bottom: var(--controls-size-with-padding);
+  right: var(--controls-size-with-wide-padding);
+  bottom: var(--controls-padding);
 }
 
 #control-group-extra-1 {
