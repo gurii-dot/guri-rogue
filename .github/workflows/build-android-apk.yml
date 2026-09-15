@@ -81,7 +81,7 @@ jobs:
               hideSystemBars();
             }
           }
-          EOF 
+          EOF
 
       - name: Sync Capacitor
         run: npx cap sync android
