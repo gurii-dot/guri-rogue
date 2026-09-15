@@ -36,7 +36,7 @@ jobs:
           rm -rf android
           npx cap add android
 
-      - name: Enable native fullscreen
+      - name: Enable safe area layout
         run: |
           mkdir -p android/app/src/main/java/net/pokerogue/app
           cat > android/app/src/main/java/net/pokerogue/app/MainActivity.java << 'EOF'
@@ -44,38 +44,13 @@ jobs:
 
           import android.os.Bundle;
           import androidx.core.view.WindowCompat;
-          import androidx.core.view.WindowInsetsCompat;
-          import androidx.core.view.WindowInsetsControllerCompat;
           import com.getcapacitor.BridgeActivity;
 
           public class MainActivity extends BridgeActivity {
-            private void hideSystemBars() {
-              WindowCompat.setDecorFitsSystemWindows(getWindow(), false);
-              WindowInsetsControllerCompat controller =
-                  WindowCompat.getInsetsController(getWindow(), getWindow().getDecorView());
-              controller.hide(WindowInsetsCompat.Type.systemBars());
-              controller.setSystemBarsBehavior(
-                  WindowInsetsControllerCompat.BEHAVIOR_SHOW_TRANSIENT_BARS_BY_SWIPE);
-            }
-
             @Override
             protected void onCreate(Bundle savedInstanceState) {
               super.onCreate(savedInstanceState);
-              hideSystemBars();
-            }
-
-            @Override
-            public void onWindowFocusChanged(boolean hasFocus) {
-              super.onWindowFocusChanged(hasFocus);
-              if (hasFocus) {
-                hideSystemBars();
-              }
-            }
-
-            @Override
-            protected void onResume() {
-              super.onResume();
-              hideSystemBars();
+              WindowCompat.setDecorFitsSystemWindows(getWindow(), true);
             }
           }
           EOF
