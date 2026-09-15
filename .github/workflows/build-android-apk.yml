@@ -54,7 +54,11 @@ jobs:
             }
           }
           EOF
-          
+
+      - name: Opt out of edge-to-edge enforcement
+        run: |
+          sed -i 's|</style>|<item name="android:windowOptOutEdgeToEdgeEnforcement">true</item></style>|' android/app/src/main/res/values/styles.xml
+
       - name: Sync Capacitor
         run: npx cap sync android
 
