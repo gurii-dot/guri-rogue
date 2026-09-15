@@ -43,21 +43,25 @@ jobs:
           package net.pokerogue.app;
 
           import android.os.Bundle;
-          import androidx.core.view.WindowCompat;
+          import android.view.View;
+          import androidx.core.graphics.Insets;
+          import androidx.core.view.ViewCompat;
+          import androidx.core.view.WindowInsetsCompat;
           import com.getcapacitor.BridgeActivity;
 
           public class MainActivity extends BridgeActivity {
             @Override
             protected void onCreate(Bundle savedInstanceState) {
               super.onCreate(savedInstanceState);
-              WindowCompat.setDecorFitsSystemWindows(getWindow(), true);
+              View webView = getBridge().getWebView();
+              ViewCompat.setOnApplyWindowInsetsListener(webView, (v, insets) -> {
+                Insets bars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
+                v.setPadding(bars.left, bars.top, bars.right, bars.bottom);
+                return insets;
+              });
             }
           }
           EOF
-
-      - name: Opt out of edge-to-edge enforcement
-        run: |
-          sed -i 's|</style>|<item name="android:windowOptOutEdgeToEdgeEnforcement">true</item></style>|' android/app/src/main/res/values/styles.xml
 
       - name: Sync Capacitor
         run: npx cap sync android
