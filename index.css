@@ -103,7 +103,7 @@ input:-internal-autofill-selected {
   --controls-size: 10vh;
   --touch-control-opacity: 0.6;
 
-  --controls-padding: calc(1rem + var(--safe-bottom));
+  --controls-padding: 1rem;
 
   --controls-size-with-padding: calc(
     var(--controls-size) +
@@ -135,6 +135,8 @@ input:-internal-autofill-selected {
   font-size: var(--controls-size);
   text-shadow: var(--color-dark) var(--text-shadow-size) var(--text-shadow-size);
   color: var(--color-light);
+  padding-bottom: var(--safe-bottom);
+  box-sizing: border-box;
 }
 
 @media (orientation: landscape) {
