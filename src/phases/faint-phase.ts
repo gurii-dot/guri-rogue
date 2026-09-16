@@ -189,6 +189,9 @@ export class FaintPhase extends PokemonPhase {
             .filter(p => p.isActive() && !p.isOnField() && p.trainerSlot === (pokemon as EnemyPokemon).trainerSlot)
             .length > 0;
         if (hasReservePartyMember) {
+          // [MOD] 전투 스타일이 "교체"일 때, 트레이너전 도중에도 상대 다음 포켓몬이
+          // 나오기 전에 내 포켓몬을 무료로 바꿀 기회를 줌 (원작 시리즈의 기본 동작)
+          globalScene.phaseManager.pushNew("CheckSwitchPhase", this.fieldIndex, globalScene.currentBattle.double);
           globalScene.phaseManager.pushNew("SwitchSummonPhase", SwitchType.SWITCH, this.fieldIndex, -1, false, false);
         }
       }
