@@ -8,10 +8,10 @@
 
 /** `64/65536 -> 1/1024` */
 // [MOD] 필드 이로치 확률 10배 (64 -> 640)
-export const BASE_SHINY_CHANCE = 640;
+export const BASE_SHINY_CHANCE = 1280;
 
 /** `1 / 256` */
-export const BASE_HIDDEN_ABILITY_RATE = 256;
+export const BASE_HIDDEN_ABILITY_RATE = 26;
 
 // #endregion Encounterable properties
 
@@ -42,7 +42,7 @@ export const HATCH_WAVES_MANAPHY_EGG = 50;
 // [MOD] 알까기 이로치 확률 10배
 export const GACHA_DEFAULT_SHINY_RATE = 13; // 원래 128
 export const GACHA_SHINY_UP_SHINY_RATE = 6; // 원래 64
-export const SAME_SPECIES_EGG_SHINY_RATE = 1; // 원래 12
+export const SAME_SPECIES_EGG_SHINY_RATE = 2; // 원래 12
 export const SAME_SPECIES_EGG_HA_RATE = 8;
 export const MANAPHY_EGG_MANAPHY_RATE = 8;
 export const GACHA_EGG_HA_RATE = 192;
