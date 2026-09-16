@@ -85,7 +85,7 @@ jobs:
 
       - name: Prevent activity recreation on rotation
         run: |
-          sed -i 's|<activity|<activity android:configChanges="orientation\|screenSize\|screenLayout\|smallestScreenSize\|keyboardHidden"|' android/app/src/main/AndroidManifest.xml
+          sed -i 's#<activity#<activity android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|keyboardHidden"#' android/app/src/main/AndroidManifest.xml
 
       - name: Sync Capacitor
         run: npx cap sync android
